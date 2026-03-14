@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-03-10T16:27:13.138956",
+  "data_path": "data/training_data.csv",
+  "model_type": "random_forest",
+  "success": true,
+  "data_loaded": {
+    "rows": 469,
+    "columns": [
+      "description",
+      "amount",
+      "category"
+    ],
+    "category_distribution": {
+      "other_expenses": 108,
+      "groceries": 79,
+      "food": 54,
+      "fuel": 48,
+      "transport": 47,
+      "bills": 46,
+      "subscription": 45,
+      "shopping": 42
+    }
+  },
+  "cleaning": {
+    "original_rows": 469,
+    "cleaned_rows": 469,
+    "removed_rows": 0
+  },
+  "features": {
+    "total_features": 24,
+    "samples": 469,
+    "tfidf_enabled": false,
+    "tfidf_features": 0
+  },
+  "training": {
+    "model_path": "models\\transaction_classifier_random_forest_20260310_162714.pkl",
+    "metadata_path": "models\\transaction_classifier_random_forest_20260310_162714_metadata.json",
+    "accuracy": 0.7340425531914894,
+    "f1_score": 0.7152787670848038,
+    "precision": 0.7143778207607995,
+    "recall": 0.7340425531914894
+  }
+}

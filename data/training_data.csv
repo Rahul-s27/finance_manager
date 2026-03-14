@@ -1,0 +1,470 @@
+description,amount,category
+swiggy food order,450,food
+zomato food delivery,350,food
+dominos pizza,550,food
+starbucks coffee,250,food
+mcdonalds burger,300,food
+kfc chicken,400,food
+pizza hut order,600,food
+cafe coffee day,200,food
+subway sandwich,180,food
+taco bell meal,320,food
+burger king combo,380,food
+dominos pasta,420,food
+swiggy dinner,480,food
+zomato lunch,360,food
+starbucks latte,220,food
+mcdonalds fries,150,food
+kfc nuggets,280,food
+pizza hut pizza,650,food
+cafe coffee day tea,120,food
+subway wrap,190,food
+taco bell burrito,340,food
+burger king burger,390,food
+dominos garlic bread,180,food
+swiggy breakfast,320,food
+zomato snacks,240,food
+starbucks frappuccino,300,food
+mcdonalds mcflurry,200,food
+kfc wings,350,food
+pizza hut pasta,500,food
+cafe coffee day sandwich,250,food
+subway salad,160,food
+taco bell taco,220,food
+burger king fries,140,food
+dominos cheese burst,700,food
+swiggy ice cream,180,food
+zomato dessert,260,food
+starbucks smoothie,280,food
+mcdonalds happy meal,400,food
+kfc bucket,600,food
+pizza hut sides,300,food
+cafe coffee day pastry,150,food
+subway cookie,100,food
+taco bell nachos,380,food
+burger king shake,200,food
+dominos stuffed crust,750,food
+swiggy biryani,500,food
+zomato thali,450,food
+starbucks cappuccino,240,food
+mcdonalds nuggets,220,food
+kfc popcorn chicken,320,food
+pizza hut calzone,550,food
+cafe coffee day muffin,130,food
+subway protein bowl,280,food
+taco bell quesadilla,360,food
+uber ride,200,transport
+ola cab ride,220,transport
+auto rickshaw fare,50,transport
+bus ticket,30,transport
+train ticket,150,transport
+flight ticket,2500,transport
+taxi ride,180,transport
+metro ride,40,transport
+uber pool,120,transport
+ola mini,140,transport
+auto rickshaw to market,60,transport
+bus pass,100,transport
+train reservation,200,transport
+flight economy,2200,transport
+taxi airport,250,transport
+metro card recharge,50,transport
+uber black,300,transport
+ola prime,260,transport
+auto rickshaw night,80,transport
+bus city,25,transport
+train ac,300,transport
+flight business,5000,transport
+taxi long distance,400,transport
+metro express,60,transport
+uber xl,350,transport
+ola luxury,400,transport
+auto rickshaw short,40,transport
+bus intercity,80,transport
+train sleeper,250,transport
+flight international,8000,transport
+taxi cab,200,transport
+metro station,45,transport
+uber go,160,transport
+ola sedan,280,transport
+auto rickshaw luggage,70,transport
+bus ticket online,35,transport
+train tatkal,180,transport
+flight domestic,1800,transport
+taxi share,100,transport
+metro pass,55,transport
+uber moto,80,transport
+ola bike,90,transport
+auto rickshaw peak,90,transport
+bus route,20,transport
+train general,120,transport
+flight premium,3500,transport
+taxi night,220,transport
+amazon purchase,1500,shopping
+flipkart shopping order,2000,shopping
+bigbasket groceries,800,shopping
+reliance store buy,600,shopping
+dmart essentials,500,shopping
+walmart cart,1200,shopping
+target items,900,shopping
+costco bulk,2500,shopping
+amazon electronics,3000,shopping
+flipkart fashion,800,shopping
+bigbasket fruits,300,shopping
+reliance mobile,400,shopping
+dmart clothes,700,shopping
+walmart toys,600,shopping
+target home,1500,shopping
+costco food,1000,shopping
+amazon books,400,shopping
+flipkart gadgets,1200,shopping
+bigbasket veggies,250,shopping
+reliance appliances,2000,shopping
+dmart shoes,900,shopping
+walmart stationery,300,shopping
+target beauty,500,shopping
+costco diapers,800,shopping
+amazon kitchen,1000,shopping
+flipkart jewelry,1500,shopping
+bigbasket dairy,200,shopping
+reliance furniture,3000,shopping
+dmart bags,400,shopping
+walmart sports,700,shopping
+target decor,1200,shopping
+costco cleaning,600,shopping
+amazon shoes,800,shopping
+flipkart watches,1000,shopping
+bigbasket snacks,150,shopping
+reliance tools,900,shopping
+dmart accessories,500,shopping
+walmart books,350,shopping
+target luggage,1400,shopping
+costco health,1100,shopping
+amazon apparel,600,shopping
+flipkart home decor,1800,shopping
+electricity bill payment,1800,bills
+water bill payment,600,bills
+gas bill payment,800,bills
+internet bill payment,1200,bills
+phone bill payment,500,bills
+cable tv bill,400,bills
+electricity recharge,1700,bills
+water utility,550,bills
+gas cylinder,750,bills
+broadband bill,1100,bills
+mobile recharge,450,bills
+tv subscription bill,350,bills
+electricity online,1600,bills
+water meter,500,bills
+gas refill,700,bills
+wifi bill,1000,bills
+phone topup,400,bills
+cable recharge,300,bills
+electricity payment,1900,bills
+water bill,650,bills
+gas bill,850,bills
+internet subscription,1300,bills
+phone bill,550,bills
+tv bill,450,bills
+electricity bill,1750,bills
+water payment,575,bills
+gas payment,775,bills
+broadband payment,1150,bills
+mobile bill,475,bills
+cable bill,375,bills
+electricity utility,1650,bills
+water service,525,bills
+gas utility,725,bills
+wifi payment,950,bills
+phone utility,425,bills
+tv utility,325,bills
+electricity bill online,1850,bills
+water bill online,625,bills
+gas bill online,825,bills
+internet bill online,1250,bills
+phone bill online,525,bills
+cable bill online,425,bills
+electricity payment app,1950,bills
+water payment app,675,bills
+gas payment app,875,bills
+broadband payment app,1350,bills
+petrol pump fuel,900,fuel
+diesel fuel,1000,fuel
+cng refill,600,fuel
+petrol station,850,fuel
+diesel pump,950,fuel
+cng station,550,fuel
+fuel petrol,800,fuel
+fuel diesel,900,fuel
+fuel cng,500,fuel
+petrol fill,750,fuel
+diesel fill,850,fuel
+cng fill,450,fuel
+petrol purchase,700,fuel
+diesel purchase,800,fuel
+cng purchase,400,fuel
+fuel station petrol,650,fuel
+fuel station diesel,750,fuel
+fuel station cng,350,fuel
+petrol tank,950,fuel
+diesel tank,1050,fuel
+cng tank,650,fuel
+fuel refill petrol,850,fuel
+fuel refill diesel,950,fuel
+fuel refill cng,550,fuel
+petrol payment,900,fuel
+diesel payment,1000,fuel
+cng payment,600,fuel
+fuel cost petrol,800,fuel
+fuel cost diesel,900,fuel
+fuel cost cng,500,fuel
+petrol expense,750,fuel
+diesel expense,850,fuel
+cng expense,450,fuel
+fuel bill petrol,700,fuel
+fuel bill diesel,800,fuel
+fuel bill cng,400,fuel
+petrol charge,650,fuel
+diesel charge,750,fuel
+cng charge,350,fuel
+fuel station visit petrol,600,fuel
+fuel station visit diesel,700,fuel
+fuel station visit cng,300,fuel
+petrol fill up,550,fuel
+diesel fill up,650,fuel
+cng fill up,250,fuel
+fuel pump petrol,500,fuel
+fuel pump diesel,600,fuel
+fuel pump cng,200,fuel
+netflix subscription,500,subscription
+amazon prime subscription,400,subscription
+spotify subscription,200,subscription
+hulu subscription,600,subscription
+disney+ subscription,700,subscription
+netflix monthly,499,subscription
+amazon prime annual,3999,subscription
+spotify premium,199,subscription
+hulu plan,599,subscription
+disney+ basic,699,subscription
+netflix standard,649,subscription
+amazon prime monthly,399,subscription
+spotify family,299,subscription
+hulu no ads,899,subscription
+disney+ premium,999,subscription
+netflix premium,799,subscription
+amazon prime student,199,subscription
+spotify duo,149,subscription
+hulu live tv,5499,subscription
+disney+ group,1399,subscription
+netflix ultra,999,subscription
+amazon prime video,499,subscription
+spotify individual,99,subscription
+hulu add on,199,subscription
+disney+ mobile,599,subscription
+netflix ad free,899,subscription
+amazon prime music,149,subscription
+spotify free trial,0,subscription
+hulu cancel,0,subscription
+disney+ upgrade,300,subscription
+netflix downgrade,399,subscription
+amazon prime gift,500,subscription
+spotify referral,50,subscription
+hulu promo,400,subscription
+disney+ bundle,1200,subscription
+netflix family,899,subscription
+amazon prime extra,599,subscription
+spotify unlimited,399,subscription
+hulu sports,2499,subscription
+disney+ marvel,799,subscription
+netflix kids,299,subscription
+amazon prime channels,199,subscription
+spotify podcasts,149,subscription
+hulu movies,699,subscription
+disney+ star,899,subscription
+bigbasket groceries,800,groceries
+dmart groceries,500,groceries
+reliance fresh,600,groceries
+more groceries,700,groceries
+spencers market,450,groceries
+nilgiris store,550,groceries
+foodworld,650,groceries
+hypercity,750,groceries
+vishal mega mart,850,groceries
+easyday,400,groceries
+grofers delivery,550,groceries
+zepto groceries,300,groceries
+blinkit essentials,350,groceries
+swiggy instamart,450,groceries
+zomato mart,400,groceries
+local grocery store,500,groceries
+supermarket buy,600,groceries
+vegetable market,250,groceries
+fruit stall,200,groceries
+milk dairy,150,groceries
+bread bakery,100,groceries
+rice grains,300,groceries
+wheat flour,200,groceries
+sugar purchase,150,groceries
+salt spices,100,groceries
+oil cooking,250,groceries
+tea coffee,180,groceries
+snacks chips,120,groceries
+cereal breakfast,200,groceries
+juice drinks,180,groceries
+frozen food,350,groceries
+canned goods,280,groceries
+cleaning supplies,220,groceries
+toiletries,300,groceries
+household items,400,groceries
+baby products,500,groceries
+pet food,250,groceries
+stationery,150,groceries
+cosmetics,350,groceries
+pharmacy essentials,200,groceries
+fresh produce,400,groceries
+meat chicken,600,groceries
+fish seafood,550,groceries
+dairy cheese,300,groceries
+bakery cakes,250,groceries
+pantry staples,350,groceries
+organic veggies,450,groceries
+beverages,200,groceries
+condiments,150,groceries
+baking ingredients,250,groceries
+health foods,400,groceries
+snack bars,120,groceries
+yogurt,180,groceries
+eggs carton,200,groceries
+butter spread,150,groceries
+jam honey,100,groceries
+pasta noodles,180,groceries
+cereal boxes,220,groceries
+soup cans,140,groceries
+ready meals,300,groceries
+ice cream tub,200,groceries
+chocolates,150,groceries
+nuts dried,250,groceries
+fruits apples,180,groceries
+veggies carrots,120,groceries
+milk gallon,250,groceries
+bread loaf,80,groceries
+cheese block,350,groceries
+yogurt pack,160,groceries
+eggs dozen,180,groceries
+butter lb,120,groceries
+jam jar,90,groceries
+pasta pack,140,groceries
+cereal bag,200,groceries
+soup carton,130,groceries
+ready to eat,280,groceries
+ice cream scoop,150,groceries
+chocolate bar,100,groceries
+nuts mix,220,groceries
+movie ticket,300,other_expenses
+doctor visit,500,other_expenses
+gym membership,1000,other_expenses
+movie popcorn,150,other_expenses
+dentist checkup,800,other_expenses
+yoga class,400,other_expenses
+concert ticket,1000,other_expenses
+pharmacy medicine,200,other_expenses
+haircut salon,300,other_expenses
+car wash,250,other_expenses
+taxi fare,180,other_expenses
+hotel stay,2000,other_expenses
+gift purchase,500,other_expenses
+party supplies,400,other_expenses
+charity donation,300,other_expenses
+insurance premium,1500,other_expenses
+repair service,600,other_expenses
+tutoring fee,700,other_expenses
+online course,800,other_expenses
+vacation booking,3000,other_expenses
+wedding gift,1000,other_expenses
+birthday cake,400,other_expenses
+sports equipment,800,other_expenses
+art supplies,300,other_expenses
+music lesson,500,other_expenses
+pet vet,400,other_expenses
+home decor,600,other_expenses
+gardening tools,250,other_expenses
+laundry service,150,other_expenses
+dry cleaning,200,other_expenses
+parking fee,50,other_expenses
+toll charge,100,other_expenses
+fine payment,200,other_expenses
+bank fee,100,other_expenses
+atm withdrawal,20,other_expenses
+credit card fee,150,other_expenses
+loan interest,500,other_expenses
+investment fee,300,other_expenses
+tax payment,1000,other_expenses
+legal fee,800,other_expenses
+consulting service,600,other_expenses
+marketing expense,400,other_expenses
+advertising cost,700,other_expenses
+software subscription,300,other_expenses
+cloud storage,200,other_expenses
+domain renewal,500,other_expenses
+hosting fee,400,other_expenses
+app purchase,100,other_expenses
+ebook buy,150,other_expenses
+magazine subscription,250,other_expenses
+newspaper daily,50,other_expenses
+courier service,200,other_expenses
+postage stamp,10,other_expenses
+shipping charge,150,other_expenses
+return fee,50,other_expenses
+refund processing,0,other_expenses
+cashback reward,50,other_expenses
+loyalty points,0,other_expenses
+discount coupon,0,other_expenses
+promo code,0,other_expenses
+voucher redeem,200,other_expenses
+gift card,300,other_expenses
+bonus credit,100,other_expenses
+prize money,500,other_expenses
+lottery ticket,100,other_expenses
+gambling loss,200,other_expenses
+casino visit,500,other_expenses
+sports bet,150,other_expenses
+entertainment app,250,other_expenses
+gaming purchase,400,other_expenses
+movie rental,100,other_expenses
+book rental,80,other_expenses
+music download,50,other_expenses
+video streaming,150,other_expenses
+podcast premium,100,other_expenses
+fitness tracker,600,other_expenses
+smartwatch,1500,other_expenses
+headphones,800,other_expenses
+phone case,200,other_expenses
+laptop bag,300,other_expenses
+mouse pad,50,other_expenses
+keyboard cover,100,other_expenses
+monitor stand,150,other_expenses
+usb drive,200,other_expenses
+external hard drive,1000,other_expenses
+router wifi,600,other_expenses
+printer ink,150,other_expenses
+toner cartridge,300,other_expenses
+paper ream,100,other_expenses
+envelope pack,50,other_expenses
+notebook,80,other_expenses
+pen set,30,other_expenses
+marker,20,other_expenses
+glue stick,10,other_expenses
+scissors,40,other_expenses
+tape roll,25,other_expenses
+stapler,60,other_expenses
+punch hole,35,other_expenses
+calculator,150,other_expenses
+ruler,15,other_expenses
+eraser,5,other_expenses
+sharpener,10,other_expenses
+crayons,50,other_expenses
+color pencils,100,other_expenses
+paint set,200,other_expenses
+canvas,150,other_expenses
+brush set,80,other_expenses
+easel,300,other_expenses

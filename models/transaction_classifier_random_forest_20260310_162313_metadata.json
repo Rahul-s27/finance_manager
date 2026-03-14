@@ -1,0 +1,22 @@
+{
+  "model_path": "models\\transaction_classifier_random_forest_20260310_162313.pkl",
+  "training_timestamp": "2026-03-10T16:23:13.053254",
+  "model_type": "RandomForestClassifier",
+  "num_classes": 8,
+  "class_names": [
+    "bills",
+    "food",
+    "fuel",
+    "groceries",
+    "other_expenses",
+    "shopping",
+    "subscription",
+    "transport"
+  ],
+  "metrics": {
+    "accuracy": 0.3617021276595745,
+    "f1_score": 0.3363232520571331,
+    "precision": 0.3519679632007542,
+    "recall": 0.3617021276595745
+  }
+}
