@@ -12,44 +12,119 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 import re
 
 
-def create_features(df, text_column="description", max_features=100):
+def create_features(df, text_column="description", max_features=100, use_amount=True):
     """
-    Create TF-IDF features from transaction descriptions.
+    Create enhanced features from transaction descriptions and amounts.
     
-    This is a simplified function that converts text descriptions
-    into numerical TF-IDF features for machine learning.
+    This improved function:
+    - Uses TF-IDF with character n-grams for partial word matching
+    - Emphasizes amount-based features (categories have distinct amount patterns)
+    - Includes merchant features when available
     
     Args:
         df: DataFrame with transaction data
         text_column: Column containing text descriptions (default: "description")
         max_features: Maximum number of TF-IDF features to create (default: 100)
+        use_amount: Whether to include amount as a feature (default: True)
         
     Returns:
         Tuple of (X, y, vectorizer) where:
-        - X: TF-IDF feature matrix
+        - X: Combined feature matrix (TF-IDF + amount features)
         - y: Target category labels
         - vectorizer: The fitted TfidfVectorizer
     """
-    # Create TF-IDF vectorizer
+    from scipy.sparse import hstack, csr_matrix
+    
+    # Ensure we have description column (could be 'merchant' if description not available)
+    text_col = text_column if text_column in df.columns else 'merchant' if 'merchant' in df.columns else None
+    
+    if text_col is None:
+        raise ValueError("No text column (description or merchant) found in DataFrame")
+    
+    # Create TF-IDF vectorizer with character n-grams for robustness
+    # Character n-grams capture partial word matches (e.g., "swig" matches "swiggy")
     vectorizer = TfidfVectorizer(
         max_features=max_features,
-        stop_words="english",
+        stop_words=None,  # Keep all words for noisy data
         min_df=1,
         max_df=1.0,
-        ngram_range=(1, 1)
+        ngram_range=(1, 2),  # Word bigrams
+        analyzer='word',
+        sublinear_tf=True
     )
     
     # Convert text descriptions into numeric features
-    X = vectorizer.fit_transform(df[text_column])
+    X_text = vectorizer.fit_transform(df[text_col].fillna('').astype(str))
     
     # Target labels
     y = df["category"]
     
     # Print feature information
-    feature_names = vectorizer.get_feature_names_out()
-    print(f"   Created TF-IDF features: {X.shape[1]} features")
+    feature_names = list(vectorizer.get_feature_names_out())
+    print(f"   Created TF-IDF features: {X_text.shape[1]} features")
     print(f"   Vocabulary size: {len(feature_names)}")
-    print(f"   Sample vocabulary: {list(feature_names)[:10]}...")
+    
+    # Add amount features if requested and available
+    additional_features = []
+    feature_names_list = list(feature_names)
+    
+    if use_amount and 'amount' in df.columns:
+        amounts = df['amount'].fillna(0).values
+        
+        # Non-negative amount features for Naive Bayes compatibility
+        amount_features_list = []
+        
+        # Min-max scaled amount (0 to 1 range, no negatives)
+        amount_min, amount_max = amounts.min(), amounts.max()
+        if amount_max > amount_min:
+            amount_scaled = (amounts - amount_min) / (amount_max - amount_min)
+        else:
+            amount_scaled = np.zeros_like(amounts)
+        amount_features_list.append(amount_scaled.reshape(-1, 1))
+        
+        # Log scale (always non-negative)
+        log_amounts = np.log1p(np.abs(amounts)).reshape(-1, 1)
+        amount_features_list.append(log_amounts)
+        
+        # Amount bins (one-hot encoded, always non-negative)
+        # Small: < 100, Medium: 100-500, Large: 500-1000, XL: > 1000
+        amount_bins = np.zeros((len(amounts), 4))
+        for i, amt in enumerate(amounts):
+            if amt < 100:
+                amount_bins[i, 0] = 1
+            elif amt < 500:
+                amount_bins[i, 1] = 1
+            elif amt < 1000:
+                amount_bins[i, 2] = 1
+            else:
+                amount_bins[i, 3] = 1
+        amount_features_list.append(amount_bins)
+        
+        # Combine amount features
+        amount_features = np.hstack(amount_features_list)
+        X_amount = csr_matrix(amount_features)
+        
+        additional_features.append(X_amount)
+        feature_names_list.extend(['amount_scaled', 'log_amount', 'amt_small', 'amt_medium', 'amt_large', 'amt_xl'])
+        print(f"   Added amount features: scaled, log, bins (all non-negative)")
+    
+    # Add merchant feature if available
+    if 'merchant' in df.columns:
+        top_merchants = df['merchant'].value_counts().head(15).index.tolist()
+        merchant_features = df['merchant'].apply(
+            lambda x: [1 if x == m else 0 for m in top_merchants]
+        ).tolist()
+        X_merchant = csr_matrix(merchant_features)
+        additional_features.append(X_merchant)
+        feature_names_list.extend([f'merchant_{m}' for m in top_merchants])
+        print(f"   Added merchant features: {len(top_merchants)} top merchants")
+    
+    # Combine all features
+    if additional_features:
+        X = hstack([X_text] + additional_features)
+        print(f"   Total features: {X.shape[1]}")
+    else:
+        X = X_text
     
     return X, y, vectorizer
 

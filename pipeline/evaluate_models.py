@@ -1,4 +1,4 @@
-"""
+    """
 Model Evaluation Module for Finance AutoML Manager.
 
 Compares multiple trained models and measures their classification performance.

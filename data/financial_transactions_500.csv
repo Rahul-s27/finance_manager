@@ -1,501 +1,501 @@
 date,description,amount,type,category,merchant,city
-2024-09-28,swiggy food order,400,debit,bills,BESCOM,Mumbai
-2024-02-15,train booking,100,debit,fuel,Swiggy,Bangalore
-2024-07-01,bus ticket,1500,debit,fuel,Netflix,Chennai
-2024-03-12,swiggy food order,1200,debit,fuel,BigBasket,Delhi
-2024-12-22,movie ticket booking,150,debit,shopping,PVR,Mumbai
-2024-10-09,restaurant dinner,700,credit,fuel,BESCOM,Pune
-2024-12-10,swiggy food order,200,debit,subscription,Netflix,Pune
-2024-06-21,swiggy food order,200,credit,grocery,Amazon,Mumbai
-2024-07-22,electricity bill payment,1500,debit,transport,Swiggy,Mumbai
-2024-02-17,bus ticket,250,credit,transport,Netflix,Mumbai
-2024-08-07,bus ticket,100,credit,subscription,Ola,Hyderabad
-2024-08-22,amazon purchase,300,debit,bills,Ola,Bangalore
-2024-01-21,swiggy food order,1500,credit,bills,IndianOil,Mumbai
-2024-11-17,ola cab ride,150,debit,subscription,BESCOM,Hyderabad
-2024-07-22,restaurant dinner,900,credit,food,Amazon,Bangalore
-2024-09-26,electricity bill payment,400,credit,transport,Amazon,Pune
-2024-11-21,uber ride,250,credit,subscription,Netflix,Pune
-2024-12-16,grocery store purchase,400,credit,food,BESCOM,Hyderabad
-2024-01-27,pharmacy medicine purchase,1200,credit,bills,Amazon,Pune
-2024-07-26,internet bill payment,800,debit,entertainment,Amazon,Pune
-2024-11-14,train booking,800,credit,fuel,Ola,Chennai
-2024-07-27,ola cab ride,400,debit,shopping,Reliance Smart,Delhi
-2024-03-20,uber ride,1200,credit,subscription,Swiggy,Delhi
-2024-01-26,uber ride,250,debit,fuel,Zomato,Pune
-2024-05-04,uber ride,1500,credit,fuel,Reliance Smart,Hyderabad
-2024-10-02,restaurant dinner,450,debit,bills,Ola,Hyderabad
-2024-07-27,grocery store purchase,600,debit,transport,BESCOM,Chennai
-2024-10-08,electricity bill payment,2000,debit,transport,BESCOM,Delhi
-2024-08-14,amazon purchase,450,credit,entertainment,PVR,Mumbai
-2024-01-11,zomato food delivery,900,credit,transport,BigBasket,Chennai
-2024-06-19,pharmacy medicine purchase,2000,credit,subscription,BigBasket,Mumbai
-2024-08-08,petrol pump fuel,300,debit,food,Uber,Hyderabad
-2024-08-15,zomato food delivery,500,credit,fuel,Flipkart,Bangalore
-2024-08-11,flipkart shopping order,350,credit,grocery,Uber,Hyderabad
-2024-12-31,grocery store purchase,1500,debit,fuel,Netflix,Mumbai
-2024-08-13,bus ticket,700,debit,bills,Uber,Chennai
-2024-05-23,zomato food delivery,800,credit,fuel,Ola,Chennai
-2024-09-26,mobile recharge,400,debit,subscription,Netflix,Hyderabad
-2024-11-13,mobile recharge,300,debit,shopping,Swiggy,Chennai
-2024-09-19,pharmacy medicine purchase,2000,debit,grocery,BESCOM,Bangalore
-2024-05-11,grocery store purchase,450,debit,transport,IndianOil,Bangalore
-2024-04-09,movie ticket booking,1500,debit,food,Amazon,Mumbai
-2024-12-10,uber ride,1000,credit,subscription,PVR,Hyderabad
-2024-01-29,zomato food delivery,100,debit,transport,Netflix,Chennai
-2024-09-10,amazon purchase,600,credit,food,Zomato,Delhi
-2024-03-24,internet bill payment,250,credit,entertainment,Ola,Chennai
-2024-06-18,mobile recharge,1500,credit,entertainment,Amazon,Delhi
-2024-11-21,zomato food delivery,200,credit,entertainment,Swiggy,Pune
-2024-02-10,restaurant dinner,800,debit,transport,BESCOM,Pune
-2024-08-22,zomato food delivery,250,credit,shopping,Amazon,Bangalore
-2024-11-09,pharmacy medicine purchase,150,debit,food,Uber,Delhi
-2024-12-13,amazon purchase,700,debit,grocery,IndianOil,Bangalore
-2024-09-25,train booking,800,debit,entertainment,Amazon,Delhi
-2024-09-11,flipkart shopping order,400,credit,entertainment,Amazon,Bangalore
-2024-01-13,pharmacy medicine purchase,1200,debit,food,Amazon,Hyderabad
-2024-12-09,uber ride,300,credit,transport,Amazon,Pune
-2024-01-24,train booking,250,credit,transport,Netflix,Mumbai
-2024-11-11,internet bill payment,700,credit,fuel,IndianOil,Chennai
-2024-03-06,amazon purchase,250,credit,shopping,Amazon,Hyderabad
-2024-03-02,petrol pump fuel,150,credit,shopping,Ola,Chennai
-2024-07-28,train booking,450,debit,subscription,BigBasket,Hyderabad
-2024-04-14,swiggy food order,1000,debit,food,Reliance Smart,Hyderabad
-2024-11-29,grocery store purchase,300,credit,grocery,Uber,Pune
-2024-06-29,electricity bill payment,2000,debit,bills,Ola,Delhi
-2024-08-26,amazon purchase,100,debit,grocery,Flipkart,Pune
-2024-07-05,grocery store purchase,600,credit,subscription,Zomato,Pune
-2024-01-30,amazon purchase,300,debit,bills,Ola,Delhi
-2024-10-11,swiggy food order,150,debit,bills,Ola,Mumbai
-2024-12-22,mobile recharge,100,debit,food,BESCOM,Delhi
-2024-04-24,zomato food delivery,400,credit,grocery,Flipkart,Delhi
-2024-08-21,swiggy food order,150,credit,grocery,Reliance Smart,Mumbai
-2024-10-20,bus ticket,1500,credit,transport,BESCOM,Chennai
-2024-01-03,ola cab ride,2000,credit,food,Uber,Hyderabad
-2024-10-03,restaurant dinner,100,credit,food,Zomato,Mumbai
-2024-09-27,mobile recharge,800,credit,shopping,Reliance Smart,Mumbai
-2024-10-22,train booking,2000,credit,transport,Flipkart,Pune
-2024-03-07,petrol pump fuel,450,credit,bills,BigBasket,Delhi
-2024-06-23,train booking,1500,credit,subscription,Uber,Bangalore
-2024-05-29,flipkart shopping order,1500,credit,bills,IndianOil,Delhi
-2024-11-10,bus ticket,500,credit,grocery,Ola,Mumbai
-2024-10-11,restaurant dinner,700,debit,bills,Flipkart,Pune
-2024-04-03,swiggy food order,500,credit,bills,PVR,Mumbai
-2024-12-29,flipkart shopping order,100,debit,fuel,Swiggy,Hyderabad
-2024-10-27,uber ride,1500,credit,bills,Netflix,Bangalore
-2024-09-02,electricity bill payment,300,debit,fuel,Reliance Smart,Bangalore
-2024-03-07,electricity bill payment,100,credit,subscription,Reliance Smart,Mumbai
-2024-02-27,internet bill payment,300,credit,fuel,Uber,Chennai
-2024-10-31,bus ticket,500,credit,grocery,Flipkart,Pune
-2024-01-09,amazon purchase,250,credit,shopping,IndianOil,Delhi
-2024-09-23,movie ticket booking,1000,credit,food,Flipkart,Hyderabad
-2024-09-01,uber ride,1000,debit,grocery,Zomato,Delhi
-2024-12-09,internet bill payment,1000,credit,transport,BigBasket,Chennai
-2024-09-26,train booking,800,credit,subscription,IndianOil,Pune
-2024-02-20,internet bill payment,100,credit,food,Ola,Chennai
-2024-03-30,internet bill payment,300,credit,shopping,BigBasket,Bangalore
-2024-04-05,electricity bill payment,500,credit,shopping,BESCOM,Chennai
-2024-05-20,mobile recharge,800,credit,subscription,Amazon,Chennai
-2024-06-28,restaurant dinner,2000,debit,shopping,IndianOil,Chennai
-2024-04-04,petrol pump fuel,100,credit,subscription,BESCOM,Delhi
-2024-03-17,grocery store purchase,350,credit,subscription,IndianOil,Bangalore
-2024-01-19,movie ticket booking,400,debit,subscription,BigBasket,Delhi
-2024-08-13,bus ticket,350,debit,bills,Flipkart,Bangalore
-2024-02-20,petrol pump fuel,400,debit,fuel,PVR,Bangalore
-2024-10-21,train booking,350,credit,subscription,Reliance Smart,Hyderabad
-2024-11-15,train booking,200,debit,grocery,Netflix,Chennai
-2024-02-12,mobile recharge,250,credit,grocery,IndianOil,Bangalore
-2024-06-05,pharmacy medicine purchase,600,debit,shopping,Uber,Mumbai
-2024-08-20,flipkart shopping order,1500,credit,subscription,Swiggy,Delhi
-2024-07-31,bus ticket,900,debit,subscription,IndianOil,Mumbai
-2024-05-19,internet bill payment,450,credit,subscription,IndianOil,Bangalore
-2024-04-12,grocery store purchase,1500,credit,fuel,PVR,Bangalore
-2024-11-15,swiggy food order,450,credit,food,IndianOil,Hyderabad
-2024-07-08,pharmacy medicine purchase,700,debit,food,Uber,Delhi
-2024-03-01,electricity bill payment,500,debit,grocery,BESCOM,Pune
-2024-11-25,train booking,450,credit,fuel,Uber,Bangalore
-2024-04-24,pharmacy medicine purchase,1000,credit,subscription,PVR,Mumbai
-2024-09-05,netflix subscription,700,credit,transport,Uber,Bangalore
-2024-12-05,internet bill payment,900,debit,subscription,IndianOil,Delhi
-2024-05-28,swiggy food order,1200,debit,entertainment,Amazon,Pune
-2024-07-18,swiggy food order,800,debit,shopping,Flipkart,Mumbai
-2024-06-19,swiggy food order,600,credit,food,PVR,Delhi
-2024-10-04,amazon purchase,250,credit,grocery,IndianOil,Bangalore
-2024-02-28,train booking,500,credit,subscription,Netflix,Bangalore
-2024-11-09,grocery store purchase,300,credit,transport,BESCOM,Pune
-2024-01-13,swiggy food order,600,debit,shopping,Uber,Delhi
-2024-09-12,grocery store purchase,350,debit,transport,Swiggy,Delhi
-2024-08-23,amazon purchase,800,credit,subscription,IndianOil,Hyderabad
-2024-08-07,movie ticket booking,150,credit,bills,Uber,Chennai
-2024-12-30,electricity bill payment,200,debit,transport,BigBasket,Mumbai
-2024-08-06,restaurant dinner,700,debit,entertainment,BESCOM,Delhi
-2024-05-04,swiggy food order,300,credit,fuel,BESCOM,Mumbai
-2024-02-07,petrol pump fuel,300,credit,entertainment,Flipkart,Chennai
-2024-10-11,uber ride,350,debit,fuel,Swiggy,Bangalore
-2024-02-13,bus ticket,350,credit,grocery,BESCOM,Pune
-2024-12-30,uber ride,450,credit,transport,PVR,Pune
-2024-11-23,grocery store purchase,250,credit,fuel,PVR,Bangalore
-2024-09-17,netflix subscription,500,credit,transport,PVR,Bangalore
-2024-06-19,uber ride,350,debit,bills,IndianOil,Mumbai
-2024-09-20,zomato food delivery,800,credit,entertainment,Reliance Smart,Delhi
-2024-04-13,netflix subscription,600,debit,bills,PVR,Delhi
-2024-08-31,petrol pump fuel,250,debit,shopping,Reliance Smart,Delhi
-2024-02-06,grocery store purchase,1000,credit,food,Ola,Hyderabad
-2024-03-20,swiggy food order,350,credit,fuel,Flipkart,Hyderabad
-2024-06-16,restaurant dinner,1500,credit,fuel,Amazon,Bangalore
-2024-01-05,bus ticket,1200,debit,transport,Reliance Smart,Mumbai
-2024-02-16,internet bill payment,1500,debit,bills,BESCOM,Pune
-2024-08-23,amazon purchase,1200,debit,entertainment,Swiggy,Hyderabad
-2024-10-24,electricity bill payment,1500,credit,bills,Netflix,Chennai
-2024-03-10,petrol pump fuel,150,debit,shopping,BigBasket,Delhi
-2024-07-05,petrol pump fuel,350,credit,transport,Netflix,Delhi
-2024-06-12,movie ticket booking,250,debit,entertainment,Zomato,Bangalore
-2024-10-05,restaurant dinner,200,debit,shopping,BESCOM,Pune
-2024-10-03,zomato food delivery,500,debit,transport,PVR,Chennai
-2024-11-25,ola cab ride,200,debit,subscription,BESCOM,Hyderabad
-2024-11-23,train booking,300,credit,food,Zomato,Hyderabad
-2024-06-15,uber ride,250,debit,food,BESCOM,Bangalore
-2024-01-02,ola cab ride,1500,debit,grocery,IndianOil,Hyderabad
-2024-04-03,mobile recharge,700,credit,subscription,Ola,Pune
-2024-10-25,internet bill payment,900,debit,subscription,PVR,Pune
-2024-08-29,movie ticket booking,1200,debit,bills,Netflix,Delhi
-2024-07-22,petrol pump fuel,600,debit,grocery,Netflix,Chennai
-2024-02-20,mobile recharge,1200,debit,entertainment,Zomato,Bangalore
-2024-08-13,petrol pump fuel,400,credit,entertainment,Amazon,Delhi
-2024-12-13,pharmacy medicine purchase,200,credit,transport,BESCOM,Bangalore
-2024-07-12,netflix subscription,300,credit,transport,IndianOil,Mumbai
-2024-05-24,internet bill payment,1000,debit,bills,BESCOM,Pune
-2024-06-12,amazon purchase,900,debit,grocery,Amazon,Bangalore
-2024-02-28,pharmacy medicine purchase,1200,credit,entertainment,Zomato,Bangalore
-2024-10-04,mobile recharge,450,credit,food,Swiggy,Bangalore
-2024-11-08,mobile recharge,300,debit,food,Amazon,Bangalore
-2024-07-16,movie ticket booking,600,debit,subscription,Swiggy,Pune
-2024-01-31,movie ticket booking,2000,credit,bills,Ola,Chennai
-2024-01-13,flipkart shopping order,350,debit,shopping,Reliance Smart,Bangalore
-2024-05-06,swiggy food order,150,debit,entertainment,BigBasket,Mumbai
-2024-02-27,train booking,400,debit,entertainment,Amazon,Mumbai
-2024-07-27,petrol pump fuel,250,credit,fuel,Uber,Bangalore
-2024-05-28,amazon purchase,800,credit,bills,Amazon,Mumbai
-2024-04-12,petrol pump fuel,800,debit,bills,PVR,Pune
-2024-02-15,petrol pump fuel,800,credit,food,BESCOM,Pune
-2024-02-23,flipkart shopping order,200,debit,transport,Amazon,Pune
-2024-12-18,pharmacy medicine purchase,1500,credit,shopping,PVR,Bangalore
-2024-11-01,zomato food delivery,350,credit,subscription,BigBasket,Pune
-2024-11-22,swiggy food order,400,debit,food,BESCOM,Pune
-2024-07-31,petrol pump fuel,400,credit,food,BigBasket,Mumbai
-2024-02-07,pharmacy medicine purchase,2000,debit,bills,Amazon,Mumbai
-2024-12-19,uber ride,350,debit,bills,PVR,Delhi
-2024-02-06,netflix subscription,100,debit,subscription,Swiggy,Chennai
-2024-10-17,restaurant dinner,1000,debit,transport,Zomato,Mumbai
-2024-09-03,zomato food delivery,200,debit,entertainment,Ola,Mumbai
-2024-12-24,restaurant dinner,600,debit,fuel,Ola,Hyderabad
-2024-07-14,flipkart shopping order,200,credit,subscription,Flipkart,Pune
-2024-12-27,mobile recharge,350,credit,shopping,BigBasket,Bangalore
-2024-05-20,electricity bill payment,400,credit,entertainment,Swiggy,Mumbai
-2024-02-04,swiggy food order,500,credit,grocery,Zomato,Chennai
-2024-02-12,internet bill payment,150,credit,grocery,Uber,Delhi
-2024-02-17,restaurant dinner,900,credit,transport,Reliance Smart,Pune
-2024-06-16,grocery store purchase,300,debit,food,Uber,Delhi
-2024-01-13,internet bill payment,200,credit,transport,Uber,Hyderabad
-2024-07-07,netflix subscription,1000,credit,subscription,BESCOM,Delhi
-2024-04-26,ola cab ride,900,debit,transport,Uber,Bangalore
-2024-05-20,netflix subscription,250,credit,entertainment,Flipkart,Mumbai
-2024-09-29,restaurant dinner,300,credit,transport,Zomato,Mumbai
-2024-07-24,internet bill payment,350,credit,subscription,Flipkart,Hyderabad
-2024-08-08,amazon purchase,2000,credit,transport,IndianOil,Hyderabad
-2024-12-09,netflix subscription,2000,credit,fuel,Uber,Chennai
-2024-02-09,swiggy food order,2000,credit,transport,Zomato,Chennai
-2024-01-24,uber ride,150,credit,shopping,Netflix,Hyderabad
-2024-04-16,flipkart shopping order,150,credit,bills,Netflix,Bangalore
-2024-02-10,zomato food delivery,200,debit,shopping,Amazon,Chennai
-2024-10-20,mobile recharge,450,debit,fuel,Reliance Smart,Chennai
-2024-11-24,electricity bill payment,300,credit,bills,Zomato,Bangalore
-2024-08-11,electricity bill payment,450,credit,subscription,BESCOM,Delhi
-2024-11-15,bus ticket,400,credit,grocery,Amazon,Mumbai
-2024-10-14,grocery store purchase,500,debit,shopping,Ola,Mumbai
-2024-06-11,bus ticket,1000,debit,entertainment,Flipkart,Bangalore
-2024-03-05,petrol pump fuel,250,credit,fuel,BESCOM,Pune
-2024-07-26,amazon purchase,350,credit,bills,BigBasket,Chennai
-2024-07-12,swiggy food order,600,debit,food,Netflix,Delhi
-2024-11-29,electricity bill payment,150,debit,shopping,IndianOil,Pune
-2024-09-18,zomato food delivery,1200,credit,transport,Reliance Smart,Delhi
-2024-05-07,mobile recharge,450,debit,subscription,Flipkart,Delhi
-2024-08-12,zomato food delivery,1200,debit,entertainment,Netflix,Hyderabad
-2024-08-15,petrol pump fuel,300,credit,shopping,BESCOM,Bangalore
-2024-05-16,restaurant dinner,500,debit,shopping,IndianOil,Hyderabad
-2024-10-31,restaurant dinner,500,debit,fuel,Swiggy,Hyderabad
-2024-05-15,swiggy food order,700,credit,subscription,Zomato,Bangalore
-2024-03-08,zomato food delivery,900,credit,entertainment,Zomato,Delhi
-2024-12-04,zomato food delivery,1200,credit,entertainment,Swiggy,Pune
-2024-08-28,petrol pump fuel,1200,debit,fuel,IndianOil,Mumbai
-2024-08-27,petrol pump fuel,200,debit,grocery,IndianOil,Bangalore
-2024-06-16,flipkart shopping order,900,debit,entertainment,Flipkart,Pune
-2024-10-21,mobile recharge,200,debit,entertainment,PVR,Bangalore
-2024-10-14,zomato food delivery,1500,credit,subscription,Reliance Smart,Chennai
-2024-03-19,mobile recharge,1500,debit,grocery,Netflix,Bangalore
-2024-09-01,bus ticket,100,credit,transport,Ola,Bangalore
-2024-05-26,electricity bill payment,2000,debit,grocery,Uber,Chennai
-2024-08-20,flipkart shopping order,1200,debit,bills,Ola,Chennai
-2024-05-23,movie ticket booking,300,credit,shopping,IndianOil,Delhi
-2024-11-27,mobile recharge,1000,debit,entertainment,Swiggy,Delhi
-2024-02-15,amazon purchase,800,debit,fuel,IndianOil,Chennai
-2024-03-04,flipkart shopping order,350,credit,shopping,Flipkart,Hyderabad
-2024-09-08,ola cab ride,450,debit,fuel,Reliance Smart,Chennai
-2024-03-30,mobile recharge,500,debit,food,Netflix,Chennai
-2024-03-14,train booking,350,credit,entertainment,Reliance Smart,Mumbai
-2024-04-23,internet bill payment,400,debit,bills,PVR,Pune
-2024-06-05,pharmacy medicine purchase,1500,debit,fuel,BigBasket,Chennai
-2024-03-02,zomato food delivery,100,credit,grocery,BigBasket,Mumbai
-2024-02-04,train booking,800,debit,shopping,Ola,Pune
-2024-03-20,flipkart shopping order,450,credit,transport,Amazon,Bangalore
-2024-01-01,uber ride,450,credit,food,Netflix,Delhi
-2024-01-13,movie ticket booking,600,credit,grocery,IndianOil,Pune
-2024-01-08,pharmacy medicine purchase,250,debit,entertainment,BESCOM,Mumbai
-2024-08-28,amazon purchase,250,debit,fuel,Swiggy,Hyderabad
-2024-11-27,zomato food delivery,1000,credit,shopping,IndianOil,Mumbai
-2024-04-22,amazon purchase,800,debit,subscription,Uber,Chennai
-2024-09-29,train booking,250,debit,transport,Zomato,Delhi
-2024-10-27,train booking,150,credit,shopping,Uber,Pune
-2024-05-07,swiggy food order,250,debit,entertainment,BESCOM,Chennai
-2024-05-24,petrol pump fuel,1000,credit,entertainment,PVR,Chennai
-2024-02-29,ola cab ride,300,credit,shopping,Reliance Smart,Mumbai
-2024-02-25,electricity bill payment,350,debit,grocery,IndianOil,Chennai
-2024-04-16,zomato food delivery,700,credit,fuel,BigBasket,Chennai
-2024-01-02,netflix subscription,700,credit,fuel,BESCOM,Pune
-2024-02-12,flipkart shopping order,900,credit,food,Swiggy,Delhi
-2024-04-28,swiggy food order,2000,credit,transport,BESCOM,Bangalore
-2024-08-03,amazon purchase,2000,credit,shopping,PVR,Chennai
-2024-07-29,pharmacy medicine purchase,100,credit,fuel,Ola,Bangalore
-2024-04-01,petrol pump fuel,600,debit,food,Flipkart,Chennai
-2024-02-01,internet bill payment,1500,credit,transport,Amazon,Bangalore
-2024-07-05,flipkart shopping order,200,credit,transport,BESCOM,Hyderabad
-2024-10-06,uber ride,500,debit,entertainment,BESCOM,Mumbai
-2024-01-04,restaurant dinner,900,credit,entertainment,IndianOil,Delhi
-2024-11-09,restaurant dinner,200,debit,entertainment,Amazon,Delhi
-2024-12-02,pharmacy medicine purchase,600,debit,entertainment,Zomato,Bangalore
-2024-08-08,mobile recharge,700,credit,food,Uber,Chennai
-2024-11-29,mobile recharge,1500,debit,fuel,PVR,Bangalore
-2024-09-03,restaurant dinner,150,credit,bills,Zomato,Pune
-2024-01-11,movie ticket booking,350,credit,entertainment,Reliance Smart,Mumbai
-2024-03-14,grocery store purchase,200,debit,bills,BESCOM,Delhi
-2024-11-30,swiggy food order,1200,debit,subscription,Amazon,Hyderabad
-2024-08-25,swiggy food order,1500,debit,bills,PVR,Delhi
-2024-09-10,uber ride,1000,credit,shopping,BESCOM,Mumbai
-2024-09-12,internet bill payment,350,debit,shopping,Reliance Smart,Chennai
-2024-03-21,uber ride,800,debit,bills,IndianOil,Chennai
-2024-04-23,zomato food delivery,400,debit,transport,IndianOil,Pune
-2024-04-12,movie ticket booking,900,debit,shopping,IndianOil,Bangalore
-2024-08-30,amazon purchase,700,debit,fuel,PVR,Mumbai
-2024-04-28,internet bill payment,450,credit,fuel,Amazon,Hyderabad
-2024-07-29,electricity bill payment,300,credit,food,Flipkart,Delhi
-2024-09-07,mobile recharge,450,debit,food,Uber,Delhi
-2024-03-05,amazon purchase,150,credit,food,BESCOM,Pune
-2024-06-29,uber ride,800,debit,grocery,Reliance Smart,Mumbai
-2024-09-05,restaurant dinner,200,credit,grocery,Reliance Smart,Chennai
-2024-02-11,grocery store purchase,1000,debit,transport,Netflix,Bangalore
-2024-04-23,mobile recharge,100,credit,food,BigBasket,Hyderabad
-2024-03-13,restaurant dinner,2000,debit,food,Amazon,Chennai
-2024-02-04,swiggy food order,1500,debit,fuel,BESCOM,Hyderabad
-2024-07-14,swiggy food order,100,credit,bills,Netflix,Hyderabad
-2024-02-27,flipkart shopping order,700,credit,subscription,BESCOM,Pune
-2024-04-21,flipkart shopping order,400,debit,bills,Zomato,Bangalore
-2024-03-15,petrol pump fuel,100,debit,subscription,Amazon,Chennai
-2024-08-10,uber ride,1000,credit,grocery,BigBasket,Hyderabad
-2024-11-02,ola cab ride,800,debit,subscription,Flipkart,Chennai
-2024-01-01,movie ticket booking,150,credit,entertainment,PVR,Bangalore
-2024-07-23,bus ticket,300,debit,entertainment,Ola,Hyderabad
-2024-08-27,internet bill payment,300,credit,entertainment,IndianOil,Bangalore
-2024-11-28,swiggy food order,1200,credit,bills,BESCOM,Chennai
-2024-08-07,restaurant dinner,100,credit,fuel,Ola,Delhi
-2024-02-08,grocery store purchase,2000,credit,food,IndianOil,Mumbai
-2024-04-07,electricity bill payment,1500,debit,grocery,BESCOM,Pune
-2024-02-02,uber ride,450,credit,shopping,Zomato,Pune
-2024-12-25,ola cab ride,300,debit,fuel,Uber,Mumbai
-2024-08-06,movie ticket booking,150,debit,fuel,Reliance Smart,Bangalore
-2024-09-19,uber ride,350,credit,entertainment,Uber,Delhi
-2024-09-14,uber ride,1000,credit,food,Reliance Smart,Chennai
-2024-10-15,mobile recharge,1000,credit,grocery,Amazon,Pune
-2024-03-05,bus ticket,250,debit,entertainment,BigBasket,Bangalore
-2024-11-05,ola cab ride,1200,debit,bills,IndianOil,Chennai
-2024-07-28,train booking,250,debit,bills,Uber,Bangalore
-2024-03-19,grocery store purchase,450,credit,bills,Swiggy,Chennai
-2024-09-22,bus ticket,250,credit,fuel,Uber,Hyderabad
-2024-10-22,restaurant dinner,100,debit,fuel,Uber,Delhi
-2024-09-29,internet bill payment,400,debit,transport,BESCOM,Pune
-2024-04-09,train booking,150,credit,entertainment,IndianOil,Pune
-2024-08-04,uber ride,350,debit,bills,Reliance Smart,Pune
-2024-01-31,mobile recharge,300,debit,grocery,Zomato,Bangalore
-2024-02-17,bus ticket,2000,debit,food,Swiggy,Delhi
-2024-12-06,mobile recharge,150,debit,fuel,BESCOM,Pune
-2024-09-01,flipkart shopping order,1200,debit,grocery,BigBasket,Bangalore
-2024-05-02,train booking,800,debit,fuel,Swiggy,Pune
-2024-04-18,pharmacy medicine purchase,350,credit,bills,BESCOM,Pune
-2024-07-16,pharmacy medicine purchase,800,credit,transport,BigBasket,Pune
-2024-08-06,swiggy food order,2000,debit,transport,BESCOM,Pune
-2024-10-20,mobile recharge,250,debit,subscription,Flipkart,Bangalore
-2024-02-22,grocery store purchase,350,debit,food,Flipkart,Chennai
-2024-05-12,internet bill payment,150,debit,entertainment,BESCOM,Chennai
-2024-07-19,flipkart shopping order,1500,credit,fuel,Amazon,Bangalore
-2024-03-05,bus ticket,500,credit,shopping,PVR,Chennai
-2024-01-20,pharmacy medicine purchase,1200,credit,bills,Uber,Pune
-2024-05-07,uber ride,200,credit,food,Ola,Bangalore
-2024-12-21,grocery store purchase,300,debit,subscription,Reliance Smart,Delhi
-2024-07-31,grocery store purchase,1500,debit,food,Amazon,Chennai
-2024-02-12,movie ticket booking,2000,credit,entertainment,IndianOil,Bangalore
-2024-10-24,grocery store purchase,350,debit,food,PVR,Delhi
-2024-01-11,netflix subscription,1200,debit,entertainment,Flipkart,Delhi
-2024-09-26,train booking,400,debit,grocery,Uber,Chennai
-2024-06-23,mobile recharge,350,credit,fuel,PVR,Pune
-2024-07-01,petrol pump fuel,300,credit,grocery,Netflix,Delhi
-2024-12-03,netflix subscription,250,credit,subscription,PVR,Hyderabad
-2024-07-10,internet bill payment,150,debit,food,IndianOil,Mumbai
-2024-09-19,grocery store purchase,900,debit,subscription,Reliance Smart,Pune
-2024-01-15,grocery store purchase,2000,debit,subscription,Zomato,Bangalore
-2024-08-15,flipkart shopping order,450,debit,entertainment,BESCOM,Bangalore
-2024-04-13,zomato food delivery,2000,credit,fuel,IndianOil,Hyderabad
-2024-07-16,ola cab ride,200,debit,fuel,Flipkart,Pune
-2024-05-10,train booking,300,debit,subscription,Ola,Hyderabad
-2024-01-23,mobile recharge,1000,debit,grocery,BESCOM,Bangalore
-2024-09-09,train booking,1200,debit,bills,Uber,Mumbai
-2024-05-24,amazon purchase,350,debit,fuel,IndianOil,Chennai
-2024-09-10,movie ticket booking,700,debit,shopping,BigBasket,Bangalore
-2024-03-17,movie ticket booking,150,debit,fuel,Uber,Hyderabad
-2024-06-03,pharmacy medicine purchase,200,debit,subscription,Zomato,Hyderabad
-2024-01-06,swiggy food order,200,credit,subscription,BESCOM,Mumbai
-2024-07-22,internet bill payment,800,credit,food,Reliance Smart,Delhi
-2024-02-14,netflix subscription,350,debit,fuel,Uber,Chennai
-2024-05-06,amazon purchase,1000,debit,food,BigBasket,Bangalore
-2024-12-08,ola cab ride,250,debit,fuel,BESCOM,Pune
-2024-01-25,internet bill payment,700,credit,bills,Amazon,Pune
-2024-02-23,pharmacy medicine purchase,700,debit,bills,BigBasket,Hyderabad
-2024-01-29,zomato food delivery,700,credit,entertainment,BigBasket,Hyderabad
-2024-06-17,amazon purchase,500,credit,shopping,Reliance Smart,Pune
-2024-01-17,pharmacy medicine purchase,800,credit,grocery,Ola,Pune
-2024-03-05,ola cab ride,100,credit,transport,BigBasket,Chennai
-2024-09-21,internet bill payment,600,credit,grocery,Flipkart,Delhi
-2024-07-09,bus ticket,100,credit,shopping,Flipkart,Delhi
-2024-03-12,netflix subscription,150,debit,grocery,Reliance Smart,Mumbai
-2024-05-26,mobile recharge,300,debit,subscription,BigBasket,Pune
-2024-09-09,grocery store purchase,700,debit,bills,BESCOM,Hyderabad
-2024-11-02,flipkart shopping order,1200,debit,entertainment,Flipkart,Pune
-2024-09-08,netflix subscription,2000,debit,bills,PVR,Chennai
-2024-12-24,zomato food delivery,1200,debit,bills,Amazon,Delhi
-2024-05-28,zomato food delivery,900,credit,fuel,Netflix,Bangalore
-2024-06-28,zomato food delivery,500,credit,entertainment,BigBasket,Bangalore
-2024-05-28,flipkart shopping order,150,credit,transport,Reliance Smart,Pune
-2024-01-08,uber ride,800,credit,fuel,Zomato,Bangalore
-2024-05-01,amazon purchase,1500,debit,entertainment,Reliance Smart,Mumbai
-2024-06-18,swiggy food order,250,credit,fuel,Amazon,Hyderabad
-2024-07-30,swiggy food order,1200,debit,food,Ola,Bangalore
-2024-07-29,ola cab ride,1500,debit,food,PVR,Mumbai
-2024-11-23,netflix subscription,1200,credit,shopping,Swiggy,Hyderabad
-2024-02-22,train booking,2000,debit,fuel,Flipkart,Chennai
-2024-01-18,electricity bill payment,250,credit,shopping,Netflix,Pune
-2024-02-18,uber ride,700,debit,grocery,Flipkart,Chennai
-2024-02-07,grocery store purchase,600,credit,entertainment,Amazon,Pune
-2024-05-19,mobile recharge,300,debit,fuel,Reliance Smart,Pune
-2024-09-06,bus ticket,2000,credit,entertainment,Swiggy,Mumbai
-2024-11-30,movie ticket booking,400,debit,entertainment,Amazon,Delhi
-2024-10-15,swiggy food order,150,credit,transport,Reliance Smart,Chennai
-2024-07-18,electricity bill payment,300,debit,fuel,BESCOM,Bangalore
-2024-04-23,train booking,400,debit,bills,Uber,Mumbai
-2024-05-07,mobile recharge,300,debit,fuel,Flipkart,Chennai
-2024-05-02,swiggy food order,500,credit,bills,IndianOil,Bangalore
-2024-11-22,mobile recharge,700,credit,shopping,Netflix,Delhi
-2024-01-02,electricity bill payment,400,credit,grocery,Uber,Delhi
-2024-09-07,grocery store purchase,250,credit,subscription,Amazon,Hyderabad
-2024-07-18,mobile recharge,600,credit,shopping,Ola,Pune
-2024-05-13,zomato food delivery,250,credit,entertainment,PVR,Hyderabad
-2024-04-21,internet bill payment,350,credit,bills,PVR,Hyderabad
-2024-05-29,movie ticket booking,250,debit,shopping,IndianOil,Delhi
-2024-07-09,pharmacy medicine purchase,600,debit,entertainment,BESCOM,Bangalore
-2024-09-28,amazon purchase,100,debit,grocery,BigBasket,Mumbai
-2024-10-12,pharmacy medicine purchase,100,debit,bills,BESCOM,Mumbai
-2024-06-22,netflix subscription,900,credit,entertainment,Amazon,Bangalore
-2024-01-11,train booking,600,debit,transport,Flipkart,Pune
-2024-03-22,uber ride,1000,credit,subscription,PVR,Pune
-2024-01-01,uber ride,2000,credit,fuel,BESCOM,Delhi
-2024-07-31,bus ticket,900,credit,subscription,Swiggy,Pune
-2024-03-29,netflix subscription,200,debit,food,IndianOil,Chennai
-2024-07-13,netflix subscription,250,credit,fuel,Flipkart,Hyderabad
-2024-04-17,electricity bill payment,300,credit,grocery,BESCOM,Hyderabad
-2024-09-25,internet bill payment,500,debit,fuel,Reliance Smart,Hyderabad
-2024-04-15,swiggy food order,2000,credit,bills,Uber,Chennai
-2024-03-19,netflix subscription,200,credit,bills,IndianOil,Mumbai
-2024-04-23,internet bill payment,700,debit,bills,BESCOM,Delhi
-2024-10-16,swiggy food order,800,debit,shopping,BigBasket,Delhi
-2024-03-30,mobile recharge,400,credit,transport,Ola,Delhi
-2024-06-11,flipkart shopping order,2000,credit,transport,Amazon,Bangalore
-2024-08-25,restaurant dinner,250,debit,entertainment,IndianOil,Hyderabad
-2024-10-27,mobile recharge,450,debit,shopping,Swiggy,Pune
-2024-11-25,flipkart shopping order,2000,credit,grocery,PVR,Pune
-2024-05-20,petrol pump fuel,200,debit,subscription,Swiggy,Chennai
-2024-01-29,internet bill payment,150,credit,shopping,BigBasket,Hyderabad
-2024-04-30,bus ticket,400,debit,entertainment,PVR,Pune
-2024-07-18,zomato food delivery,800,debit,food,Amazon,Hyderabad
-2024-07-21,flipkart shopping order,300,debit,transport,Uber,Hyderabad
-2024-05-28,uber ride,350,debit,transport,Uber,Mumbai
-2024-04-27,amazon purchase,150,credit,bills,BESCOM,Hyderabad
-2024-11-28,grocery store purchase,700,debit,bills,BESCOM,Delhi
-2024-05-31,restaurant dinner,800,credit,transport,Reliance Smart,Hyderabad
-2024-04-10,mobile recharge,1000,debit,food,Flipkart,Pune
-2024-08-04,movie ticket booking,250,credit,subscription,PVR,Chennai
-2024-08-15,mobile recharge,700,debit,fuel,Reliance Smart,Hyderabad
-2024-09-20,mobile recharge,1500,credit,transport,PVR,Bangalore
-2024-04-07,movie ticket booking,800,credit,subscription,IndianOil,Hyderabad
-2024-07-18,netflix subscription,100,credit,subscription,Netflix,Chennai
-2024-04-13,grocery store purchase,200,credit,bills,Flipkart,Bangalore
-2024-11-08,movie ticket booking,1200,credit,transport,Reliance Smart,Hyderabad
-2024-02-26,mobile recharge,350,credit,grocery,BigBasket,Pune
-2024-06-04,pharmacy medicine purchase,500,debit,grocery,Uber,Mumbai
-2024-12-22,mobile recharge,300,credit,grocery,PVR,Chennai
-2024-05-06,mobile recharge,200,credit,shopping,BESCOM,Bangalore
-2024-11-25,petrol pump fuel,350,debit,grocery,Reliance Smart,Hyderabad
-2024-10-17,swiggy food order,900,debit,subscription,Zomato,Mumbai
-2024-03-22,netflix subscription,900,credit,subscription,Ola,Bangalore
-2024-06-18,flipkart shopping order,250,credit,shopping,Swiggy,Hyderabad
-2024-06-24,internet bill payment,400,credit,food,Swiggy,Chennai
-2024-11-15,netflix subscription,100,credit,entertainment,IndianOil,Chennai
-2024-08-26,restaurant dinner,2000,debit,shopping,Uber,Hyderabad
-2024-11-29,flipkart shopping order,800,debit,transport,Uber,Mumbai
-2024-05-29,petrol pump fuel,300,debit,food,IndianOil,Hyderabad
-2024-03-18,restaurant dinner,800,credit,entertainment,Amazon,Mumbai
-2024-05-26,swiggy food order,400,debit,food,PVR,Bangalore
-2024-11-20,pharmacy medicine purchase,200,debit,food,Reliance Smart,Bangalore
-2024-02-27,petrol pump fuel,150,debit,shopping,Flipkart,Chennai
-2024-04-28,electricity bill payment,800,debit,entertainment,BigBasket,Mumbai
-2024-01-14,restaurant dinner,900,credit,grocery,Ola,Bangalore
-2024-07-31,electricity bill payment,250,credit,fuel,Amazon,Bangalore
-2024-01-17,flipkart shopping order,100,debit,transport,BESCOM,Hyderabad
-2024-06-07,ola cab ride,250,debit,transport,Zomato,Bangalore
-2024-09-13,pharmacy medicine purchase,1500,debit,grocery,Netflix,Chennai
-2024-04-21,uber ride,200,debit,transport,BigBasket,Bangalore
-2024-03-04,petrol pump fuel,150,debit,transport,Flipkart,Bangalore
-2024-06-05,flipkart shopping order,100,credit,subscription,Zomato,Mumbai
-2024-07-13,train booking,300,credit,entertainment,PVR,Hyderabad
-2024-06-22,mobile recharge,900,debit,subscription,PVR,Chennai
-2024-01-16,train booking,500,credit,transport,Reliance Smart,Pune
-2024-01-21,train booking,200,debit,bills,Flipkart,Hyderabad
-2024-04-04,train booking,500,credit,fuel,Amazon,Hyderabad
-2024-01-09,grocery store purchase,250,credit,fuel,Uber,Delhi
-2024-07-01,bus ticket,2000,debit,bills,Netflix,Hyderabad
-2024-05-30,grocery store purchase,500,debit,transport,Amazon,Chennai
-2024-01-19,uber ride,150,debit,transport,BigBasket,Delhi
-2024-08-03,grocery store purchase,150,debit,subscription,Reliance Smart,Mumbai
-2024-11-26,pharmacy medicine purchase,300,debit,entertainment,BESCOM,Pune
-2024-10-09,petrol pump fuel,100,credit,transport,BESCOM,Bangalore
-2024-02-19,train booking,450,credit,fuel,Zomato,Pune
-2024-10-02,swiggy food order,350,debit,food,BigBasket,Mumbai
-2024-06-26,mobile recharge,350,debit,transport,BigBasket,Mumbai
-2024-05-18,uber ride,300,credit,shopping,BESCOM,Mumbai
-2024-05-27,movie ticket booking,1500,debit,transport,PVR,Pune
-2024-08-02,amazon purchase,250,credit,grocery,Swiggy,Pune
-2024-07-27,grocery store purchase,400,credit,entertainment,Uber,Chennai
-2024-10-20,swiggy food order,400,debit,food,Uber,Bangalore
-2024-08-13,uber ride,500,debit,subscription,Amazon,Bangalore
-2024-05-08,uber ride,600,credit,entertainment,Zomato,Mumbai
-2024-07-29,zomato food delivery,1000,credit,subscription,Flipkart,Chennai
-2024-10-24,netflix subscription,400,credit,entertainment,BigBasket,Chennai
-2024-06-19,uber ride,350,credit,transport,Swiggy,Mumbai
-2024-05-01,netflix subscription,200,debit,entertainment,Amazon,Hyderabad
-2024-02-10,uber ride,300,credit,grocery,Reliance Smart,Chennai
+2024-04-22,ola cab ride,1050,credit,transport,Apollo Pharmacy,Hyderabad
+2024-06-03,bus ticket,1650,debit,transport,MakeMyTrip,Delhi
+2024-12-23,amazon purchase,390,debit,shopping,Zepto,Pune
+2024-10-10,swiggy food order,2250,debit,food,Apple Music,Pune
+2024-06-08,netflix subscription,390,credit,subscription,Dineout,Pune
+2024-02-28,electricity bill payment,170,credit,bills,Vi,Bangalore
+2024-06-07,gaming purchase,990,credit,subscription,RedBus,Mumbai
+2024-08-10,restaurant dinner,1700,debit,food,Jio,Chennai
+2024-06-16,netflix subscription,1920,debit,subscription,JioFiber,Pune
+2024-12-06,gaming purchase,480,credit,food,Dineout,Pune
+2024-12-29,prime video subscription,760,debit,subscription,State Transport,Delhi
+2024-10-24,swiggy food order,1780,credit,food,Insider,Mumbai
+2024-08-06,restaurant dinner,450,credit,food,Vi,Bangalore
+2024-10-04,restaurant dinner,2750,credit,food,IndianOil,Delhi
+2024-05-22,electricity bill payment,340,credit,bills,Apple Music,Mumbai
+2024-06-01,bus ticket,2040,credit,transport,ACT Fibernet,Pune
+2024-01-27,zomato food delivery,4610,credit,food,Prime Video,Mumbai
+2024-02-04,pharmacy medicine purchase,1960,credit,subscription,Disney+,Mumbai
+2024-08-25,internet bill payment,590,credit,bills,Amazon,Delhi
+2024-07-16,petrol pump fuel,80,debit,transport,Steam,Delhi
+2024-10-01,zomato food delivery,1590,credit,food,Jio,Pune
+2024-11-24,diesel refill,280,debit,transport,Insider,Hyderabad
+2024-04-26,prime video subscription,2500,credit,subscription,BookMyShow,Hyderabad
+2024-08-07,grocery store purchase,1220,debit,shopping,MakeMyTrip,Hyderabad
+2024-01-09,supermarket shopping,3870,debit,bills,MSEDCL,Delhi
+2024-12-13,netflix subscription,2130,credit,fuel,Steam,Bangalore
+2024-04-23,prime video subscription,2630,credit,subscription,Reliance Smart,Delhi
+2024-12-12,amazon purchase,680,credit,shopping,ACT Fibernet,Chennai
+2024-07-11,restaurant dinner,2650,credit,food,MSEDCL,Mumbai
+2024-10-01,amazon purchase,1470,debit,bills,Airtel,Bangalore
+2024-08-25,mobile recharge,1850,debit,grocery,Blinkit,Hyderabad
+2024-10-06,netflix subscription,1670,credit,shopping,D-Mart,Delhi
+2024-01-30,ola cab ride,650,credit,transport,BookMyShow,Delhi
+2024-01-20,concert tickets,470,debit,transport,Ola,Delhi
+2024-05-14,concert tickets,600,credit,grocery,Zepto,Hyderabad
+2024-06-16,uber ride,350,credit,food,Insider,Mumbai
+2024-09-29,uber ride,1060,credit,transport,Apollo Pharmacy,Mumbai
+2024-06-24,gaming purchase,530,debit,bills,JioFiber,Pune
+2024-09-09,supermarket shopping,1270,debit,entertainment,Apollo Pharmacy,Hyderabad
+2024-05-04,gaming purchase,2230,credit,bills,Airtel,Hyderabad
+2024-08-20,concert tickets,350,debit,grocery,BigBasket,Pune
+2024-07-23,spotify premium,3910,credit,shopping,HPCL,Pune
+2024-09-05,gaming purchase,490,debit,transport,Ola,Chennai
+2024-10-06,zomato food delivery,1480,debit,food,Insider,Hyderabad
+2024-05-03,bus ticket,2370,debit,transport,Steam,Hyderabad
+2024-07-27,mobile recharge,1850,debit,bills,MSEDCL,Bangalore
+2024-11-13,concert tickets,240,credit,food,Swiggy,Delhi
+2024-07-28,bus ticket,1090,debit,transport,Netmeds,Bangalore
+2024-01-17,grocery store purchase,580,credit,shopping,IndianOil,Chennai
+2024-03-12,prime video subscription,990,credit,subscription,Spotify,Mumbai
+2024-04-18,gaming purchase,610,debit,fuel,Shell,Pune
+2024-10-23,supermarket shopping,2900,credit,bills,ACT Fibernet,Mumbai
+2024-01-22,restaurant dinner,2460,debit,food,Insider,Mumbai
+2024-03-19,pharmacy medicine purchase,660,debit,shopping,State Transport,Mumbai
+2024-01-02,gaming purchase,350,debit,transport,RedBus,Hyderabad
+2024-06-08,train booking,1540,debit,food,Zomato,Hyderabad
+2024-03-16,flipkart shopping order,720,debit,shopping,HPCL,Mumbai
+2024-03-14,mobile recharge,2180,credit,shopping,Shell,Chennai
+2024-07-07,bus ticket,1770,debit,transport,BESCOM,Hyderabad
+2024-11-17,zomato food delivery,190,credit,food,JioFiber,Mumbai
+2024-10-14,supermarket shopping,490,debit,transport,IRCTC,Delhi
+2024-03-11,grocery store purchase,1990,credit,shopping,Spotify,Bangalore
+2024-02-16,diesel refill,110,debit,subscription,Netflix,Bangalore
+2024-08-12,swiggy food order,170,debit,food,BPCL,Chennai
+2024-05-21,grocery store purchase,940,debit,shopping,Amazon,Bangalore
+2024-03-01,flipkart shopping order,380,credit,shopping,ACT Fibernet,Delhi
+2024-04-11,ola cab ride,1340,debit,grocery,Steam,Delhi
+2024-08-02,pharmacy medicine purchase,420,debit,shopping,BookMyShow,Chennai
+2024-04-15,train booking,1280,debit,subscription,Prime Video,Bangalore
+2024-06-02,train booking,610,debit,transport,RedBus,Hyderabad
+2024-03-22,train booking,1390,debit,bills,PVR,Chennai
+2024-12-27,prime video subscription,860,credit,bills,MSEDCL,Chennai
+2024-05-20,swiggy food order,250,debit,food,Jio,Mumbai
+2024-09-13,swiggy food order,1040,credit,food,Xbox,Pune
+2024-04-25,train booking,870,credit,entertainment,PlayStation,Hyderabad
+2024-01-31,internet bill payment,1420,debit,bills,MakeMyTrip,Pune
+2024-01-24,prime video subscription,150,credit,subscription,HPCL,Bangalore
+2024-04-30,prime video subscription,2540,credit,shopping,Insider,Delhi
+2024-09-18,concert tickets,250,debit,grocery,Reliance Smart,Hyderabad
+2024-10-26,bus ticket,200,credit,grocery,Uber,Hyderabad
+2024-06-19,petrol pump fuel,400,debit,fuel,JioFiber,Hyderabad
+2024-03-28,grocery store purchase,590,credit,shopping,D-Mart,Mumbai
+2024-11-17,movie ticket booking,450,credit,transport,Ola,Hyderabad
+2024-11-06,bus ticket,2480,credit,transport,Amazon,Chennai
+2024-01-02,restaurant dinner,480,credit,subscription,Reliance Smart,Delhi
+2024-01-06,concert tickets,310,debit,transport,MakeMyTrip,Bangalore
+2024-10-18,concert tickets,340,credit,transport,State Transport,Chennai
+2024-04-18,pharmacy medicine purchase,1840,credit,grocery,BigBasket,Delhi
+2024-09-18,electricity bill payment,940,credit,bills,Steam,Bangalore
+2024-05-03,internet bill payment,1160,debit,bills,Apollo Pharmacy,Delhi
+2024-03-31,bus ticket,1190,credit,transport,Amazon,Bangalore
+2024-12-05,internet bill payment,810,debit,bills,Zepto,Mumbai
+2024-05-07,restaurant dinner,2210,debit,food,RedBus,Delhi
+2024-08-27,concert tickets,430,debit,grocery,BigBasket,Hyderabad
+2024-07-15,zomato food delivery,1370,debit,entertainment,BESCOM,Chennai
+2024-02-28,ola cab ride,730,debit,transport,Airtel,Chennai
+2024-11-15,train booking,1880,credit,food,Swiggy,Pune
+2024-02-10,spotify premium,460,credit,transport,MakeMyTrip,Mumbai
+2024-03-06,flipkart shopping order,810,credit,shopping,Apollo Pharmacy,Hyderabad
+2024-08-11,mobile recharge,1490,credit,bills,Insider,Hyderabad
+2024-06-23,gaming purchase,310,credit,subscription,Spotify,Hyderabad
+2024-07-24,internet bill payment,370,credit,bills,Disney+,Bangalore
+2024-09-23,diesel refill,100,debit,bills,Vi,Delhi
+2024-10-25,gaming purchase,240,credit,transport,Zomato,Pune
+2024-04-25,supermarket shopping,380,credit,food,Swiggy,Pune
+2024-09-14,movie ticket booking,190,credit,transport,Uber,Mumbai
+2024-01-24,internet bill payment,180,credit,bills,Prime Video,Pune
+2024-12-01,ola cab ride,1100,debit,fuel,Swiggy,Bangalore
+2024-06-10,mobile recharge,780,debit,fuel,Shell,Pune
+2024-11-14,electricity bill payment,700,credit,food,Vi,Bangalore
+2024-03-30,restaurant dinner,30,credit,transport,TSSPDCL,Bangalore
+2024-08-23,netflix subscription,2300,debit,subscription,MSEDCL,Pune
+2024-09-07,concert tickets,280,credit,bills,BESCOM,Bangalore
+2024-11-26,internet bill payment,290,credit,bills,IndianOil,Delhi
+2024-03-05,petrol pump fuel,760,credit,fuel,Zepto,Hyderabad
+2024-03-09,movie ticket booking,140,credit,entertainment,Xbox,Mumbai
+2024-12-03,electricity bill payment,1600,credit,bills,PlayStation,Hyderabad
+2024-07-31,grocery store purchase,540,credit,shopping,Reliance Smart,Chennai
+2024-10-26,movie ticket booking,1390,credit,bills,JioFiber,Chennai
+2024-08-04,gaming purchase,460,credit,shopping,Amazon,Chennai
+2024-07-04,spotify premium,580,credit,food,State Transport,Pune
+2024-08-13,ola cab ride,1020,debit,shopping,TSSPDCL,Hyderabad
+2024-08-26,flipkart shopping order,1120,credit,shopping,IndianOil,Mumbai
+2024-05-28,flipkart shopping order,890,debit,shopping,TSSPDCL,Delhi
+2024-01-08,swiggy food order,720,debit,food,TSSPDCL,Mumbai
+2024-09-02,train booking,370,credit,food,MSEDCL,Hyderabad
+2024-09-14,flipkart shopping order,2120,credit,fuel,Uber,Mumbai
+2024-04-22,electricity bill payment,2780,credit,bills,MakeMyTrip,Bangalore
+2024-06-25,pharmacy medicine purchase,4160,credit,grocery,Zepto,Hyderabad
+2024-01-25,train booking,410,credit,transport,Ola,Delhi
+2024-08-08,spotify premium,2030,debit,subscription,1mg,Mumbai
+2024-05-16,petrol pump fuel,1860,debit,shopping,Uber,Delhi
+2024-05-09,bus ticket,2430,debit,transport,Apollo Pharmacy,Pune
+2024-02-03,netflix subscription,760,credit,bills,Airtel,Chennai
+2024-11-07,petrol pump fuel,610,credit,fuel,Blinkit,Bangalore
+2024-03-21,diesel refill,340,credit,subscription,Spotify,Hyderabad
+2024-08-15,internet bill payment,320,credit,bills,Spotify,Mumbai
+2024-01-21,petrol pump fuel,280,debit,fuel,RedBus,Bangalore
+2024-10-13,electricity bill payment,2730,credit,shopping,Flipkart,Pune
+2024-08-20,netflix subscription,180,credit,transport,Apple Music,Bangalore
+2024-09-28,zomato food delivery,380,debit,entertainment,Prime Video,Chennai
+2024-05-03,swiggy food order,190,credit,food,Insider,Bangalore
+2024-04-13,petrol pump fuel,2370,debit,fuel,Zepto,Mumbai
+2024-08-23,internet bill payment,1360,credit,grocery,Blinkit,Bangalore
+2024-10-10,mobile recharge,310,debit,grocery,Zomato,Delhi
+2024-04-01,uber ride,610,debit,transport,BESCOM,Pune
+2024-12-10,mobile recharge,570,credit,fuel,BPCL,Pune
+2024-11-19,prime video subscription,430,credit,subscription,Flipkart,Bangalore
+2024-04-27,flipkart shopping order,380,credit,food,Dineout,Hyderabad
+2024-07-20,grocery store purchase,490,debit,transport,Prime Video,Bangalore
+2024-12-04,netflix subscription,190,debit,subscription,Flipkart,Delhi
+2024-10-10,swiggy food order,270,credit,food,IRCTC,Chennai
+2024-04-25,zomato food delivery,1570,debit,food,BESCOM,Mumbai
+2024-06-29,zomato food delivery,870,credit,food,Zepto,Delhi
+2024-01-05,pharmacy medicine purchase,1340,debit,entertainment,Amazon,Bangalore
+2024-11-04,supermarket shopping,2970,debit,transport,IRCTC,Bangalore
+2024-01-07,flipkart shopping order,720,credit,shopping,MSEDCL,Chennai
+2024-01-01,bus ticket,2470,credit,transport,Blinkit,Chennai
+2024-06-02,electricity bill payment,1110,credit,bills,Vi,Mumbai
+2024-03-02,restaurant dinner,1440,debit,food,Ola,Delhi
+2024-10-18,movie ticket booking,150,debit,grocery,BigBasket,Delhi
+2024-12-05,concert tickets,190,debit,subscription,Netflix,Pune
+2024-09-16,grocery store purchase,430,debit,transport,Steam,Chennai
+2024-03-11,netflix subscription,190,debit,subscription,1mg,Delhi
+2024-07-10,grocery store purchase,820,credit,shopping,RedBus,Chennai
+2024-02-09,concert tickets,200,credit,entertainment,PlayStation,Bangalore
+2024-06-10,prime video subscription,1130,debit,subscription,HPCL,Bangalore
+2024-03-06,zomato food delivery,250,debit,food,Blinkit,Delhi
+2024-03-04,flipkart shopping order,1290,credit,shopping,Netflix,Bangalore
+2024-10-01,grocery store purchase,670,debit,shopping,Spotify,Bangalore
+2024-05-15,netflix subscription,580,credit,subscription,HPCL,Mumbai
+2024-06-25,amazon purchase,1970,credit,shopping,Zomato,Bangalore
+2024-03-05,train booking,1190,credit,grocery,Netmeds,Bangalore
+2024-01-26,grocery store purchase,240,credit,shopping,JioFiber,Mumbai
+2024-10-20,diesel refill,2050,credit,fuel,HPCL,Pune
+2024-11-08,swiggy food order,2310,credit,food,BESCOM,Pune
+2024-06-22,zomato food delivery,650,debit,subscription,Spotify,Pune
+2024-07-31,diesel refill,1050,debit,grocery,Apple Music,Mumbai
+2024-01-07,internet bill payment,3560,debit,bills,Zepto,Hyderabad
+2024-11-05,mobile recharge,630,debit,fuel,Shell,Pune
+2024-03-11,spotify premium,830,debit,subscription,Apollo Pharmacy,Mumbai
+2024-08-12,flipkart shopping order,1020,debit,shopping,Disney+,Hyderabad
+2024-11-21,train booking,490,credit,fuel,Shell,Bangalore
+2024-03-11,petrol pump fuel,520,debit,fuel,Netmeds,Bangalore
+2024-09-06,electricity bill payment,770,debit,subscription,Airtel,Bangalore
+2024-07-16,netflix subscription,60,credit,subscription,Ola,Hyderabad
+2024-05-30,uber ride,450,debit,transport,Netflix,Bangalore
+2024-02-09,spotify premium,3160,debit,shopping,Steam,Bangalore
+2024-05-26,pharmacy medicine purchase,1900,debit,entertainment,MSEDCL,Hyderabad
+2024-07-03,concert tickets,290,debit,shopping,Flipkart,Hyderabad
+2024-08-30,pharmacy medicine purchase,1240,debit,entertainment,Xbox,Pune
+2024-05-15,concert tickets,2240,debit,subscription,Prime Video,Pune
+2024-11-29,electricity bill payment,270,debit,bills,Airtel,Delhi
+2024-08-03,swiggy food order,1630,credit,food,BigBasket,Bangalore
+2024-09-26,grocery store purchase,450,debit,shopping,Apollo Pharmacy,Pune
+2024-10-15,swiggy food order,2200,credit,food,MSEDCL,Pune
+2024-05-26,mobile recharge,300,debit,transport,MakeMyTrip,Hyderabad
+2024-03-24,ola cab ride,680,debit,transport,Blinkit,Chennai
+2024-08-29,petrol pump fuel,430,debit,subscription,Vi,Pune
+2024-02-01,concert tickets,700,credit,transport,Uber,Pune
+2024-06-16,netflix subscription,1480,debit,subscription,BESCOM,Bangalore
+2024-12-03,bus ticket,550,credit,transport,PVR,Chennai
+2024-01-11,ola cab ride,650,credit,food,BPCL,Hyderabad
+2024-06-16,netflix subscription,620,debit,subscription,JioFiber,Pune
+2024-12-09,pharmacy medicine purchase,790,debit,grocery,D-Mart,Chennai
+2024-07-25,zomato food delivery,1630,credit,food,HPCL,Hyderabad
+2024-04-14,bus ticket,1610,credit,transport,Airtel,Delhi
+2024-05-18,uber ride,2240,debit,transport,BPCL,Bangalore
+2024-06-29,internet bill payment,520,credit,bills,Netflix,Chennai
+2024-08-21,train booking,1190,debit,shopping,PVR,Chennai
+2024-04-04,movie ticket booking,1890,debit,fuel,Amazon,Delhi
+2024-02-19,prime video subscription,1020,credit,subscription,PlayStation,Delhi
+2024-12-09,internet bill payment,2900,debit,shopping,Zepto,Chennai
+2024-06-16,electricity bill payment,1340,credit,bills,Apple Music,Mumbai
+2024-06-21,internet bill payment,2930,credit,bills,Ola,Pune
+2024-06-14,electricity bill payment,1590,debit,fuel,D-Mart,Bangalore
+2024-04-22,petrol pump fuel,330,debit,transport,PVR,Bangalore
+2024-03-01,internet bill payment,520,debit,food,Zomato,Chennai
+2024-12-13,amazon purchase,790,credit,subscription,Ola,Hyderabad
+2024-01-08,swiggy food order,1910,debit,entertainment,Apollo Pharmacy,Mumbai
+2024-08-08,prime video subscription,1180,credit,subscription,PlayStation,Mumbai
+2024-11-02,amazon purchase,250,debit,shopping,Disney+,Mumbai
+2024-11-30,electricity bill payment,340,debit,bills,ACT Fibernet,Pune
+2024-02-13,amazon purchase,130,credit,shopping,BPCL,Bangalore
+2024-06-28,concert tickets,940,credit,shopping,PVR,Bangalore
+2024-07-04,mobile recharge,290,debit,shopping,Amazon,Delhi
+2024-03-11,zomato food delivery,1640,debit,entertainment,Uber,Hyderabad
+2024-03-19,supermarket shopping,740,debit,transport,Uber,Pune
+2024-02-10,spotify premium,490,debit,transport,Netmeds,Delhi
+2024-08-20,concert tickets,380,debit,transport,Ola,Pune
+2024-04-23,amazon purchase,2220,debit,shopping,Disney+,Chennai
+2024-12-15,zomato food delivery,270,credit,food,BookMyShow,Pune
+2024-11-02,concert tickets,240,debit,food,IRCTC,Bangalore
+2024-12-02,prime video subscription,300,credit,bills,Apple Music,Chennai
+2024-02-08,movie ticket booking,330,credit,bills,Vi,Hyderabad
+2024-05-18,internet bill payment,830,debit,bills,Amazon,Mumbai
+2024-10-28,grocery store purchase,690,debit,shopping,BESCOM,Chennai
+2024-11-29,restaurant dinner,1790,debit,food,IndianOil,Bangalore
+2024-03-07,pharmacy medicine purchase,2130,credit,fuel,Spotify,Hyderabad
+2024-02-29,diesel refill,1000,debit,entertainment,Steam,Pune
+2024-10-15,ola cab ride,1310,debit,transport,MakeMyTrip,Mumbai
+2024-06-06,train booking,470,debit,food,Zomato,Bangalore
+2024-02-13,spotify premium,720,debit,subscription,BPCL,Bangalore
+2024-01-26,ola cab ride,680,debit,transport,Reliance Smart,Delhi
+2024-01-17,gaming purchase,2580,debit,bills,Airtel,Delhi
+2024-10-31,amazon purchase,1340,credit,entertainment,Apple Music,Chennai
+2024-06-01,diesel refill,3820,credit,shopping,Amazon,Delhi
+2024-10-24,prime video subscription,230,credit,subscription,MakeMyTrip,Bangalore
+2024-05-24,train booking,200,credit,grocery,Uber,Hyderabad
+2024-09-30,zomato food delivery,1250,debit,food,BookMyShow,Delhi
+2024-10-11,grocery store purchase,550,debit,shopping,Vi,Pune
+2024-09-29,netflix subscription,1720,credit,subscription,Uber,Pune
+2024-03-26,spotify premium,3690,credit,subscription,D-Mart,Delhi
+2024-12-14,prime video subscription,1310,debit,subscription,PVR,Hyderabad
+2024-03-23,supermarket shopping,1570,credit,bills,Jio,Hyderabad
+2024-06-07,diesel refill,910,credit,entertainment,Blinkit,Mumbai
+2024-09-27,zomato food delivery,900,debit,food,Apollo Pharmacy,Pune
+2024-06-01,restaurant dinner,140,credit,food,Netmeds,Pune
+2024-02-25,prime video subscription,480,debit,subscription,Ola,Mumbai
+2024-01-19,uber ride,1210,debit,transport,Blinkit,Hyderabad
+2024-02-07,amazon purchase,2850,debit,shopping,RedBus,Delhi
+2024-09-13,flipkart shopping order,620,credit,shopping,PlayStation,Bangalore
+2024-06-18,concert tickets,250,debit,food,BESCOM,Chennai
+2024-10-28,ola cab ride,330,credit,transport,Airtel,Bangalore
+2024-09-14,uber ride,1860,credit,transport,ACT Fibernet,Mumbai
+2024-10-06,mobile recharge,1300,debit,transport,RedBus,Chennai
+2024-02-17,restaurant dinner,440,debit,food,Disney+,Mumbai
+2024-08-24,electricity bill payment,2100,credit,bills,PlayStation,Chennai
+2024-06-04,spotify premium,170,credit,subscription,Disney+,Bangalore
+2024-10-03,swiggy food order,830,credit,food,Blinkit,Mumbai
+2024-05-12,movie ticket booking,1120,debit,entertainment,Airtel,Pune
+2024-05-05,diesel refill,1290,debit,grocery,Reliance Smart,Chennai
+2024-06-25,concert tickets,530,debit,subscription,Disney+,Hyderabad
+2024-10-27,diesel refill,950,debit,subscription,Apple Music,Chennai
+2024-02-24,electricity bill payment,1970,debit,fuel,HPCL,Bangalore
+2024-08-31,restaurant dinner,340,debit,subscription,Disney+,Chennai
+2024-11-21,swiggy food order,1190,debit,food,Spotify,Hyderabad
+2024-11-14,uber ride,70,debit,transport,Dineout,Mumbai
+2024-01-09,mobile recharge,4090,credit,bills,ACT Fibernet,Delhi
+2024-06-03,prime video subscription,760,credit,food,Airtel,Bangalore
+2024-11-10,petrol pump fuel,3080,credit,shopping,Disney+,Delhi
+2024-06-25,spotify premium,490,credit,food,D-Mart,Chennai
+2024-08-18,train booking,530,debit,grocery,Zepto,Delhi
+2024-05-26,grocery store purchase,180,debit,shopping,Netmeds,Chennai
+2024-03-07,prime video subscription,1630,credit,shopping,Amazon,Hyderabad
+2024-01-29,swiggy food order,4090,debit,food,Zepto,Pune
+2024-11-15,electricity bill payment,1850,credit,bills,IndianOil,Pune
+2024-07-04,uber ride,1010,debit,bills,Reliance Smart,Bangalore
+2024-07-22,train booking,410,credit,fuel,IndianOil,Hyderabad
+2024-07-13,prime video subscription,150,credit,subscription,Swiggy,Chennai
+2024-04-08,ola cab ride,2280,debit,bills,BESCOM,Delhi
+2024-03-10,swiggy food order,1200,debit,food,Dineout,Chennai
+2024-07-15,ola cab ride,310,debit,transport,Netmeds,Chennai
+2024-09-21,prime video subscription,1090,credit,entertainment,IRCTC,Bangalore
+2024-07-22,gaming purchase,440,credit,shopping,State Transport,Mumbai
+2024-01-08,zomato food delivery,230,credit,food,Prime Video,Mumbai
+2024-09-22,diesel refill,530,credit,grocery,1mg,Mumbai
+2024-08-04,uber ride,1460,credit,transport,Netflix,Mumbai
+2024-06-09,petrol pump fuel,530,credit,fuel,1mg,Delhi
+2024-11-24,gaming purchase,170,credit,grocery,Zepto,Chennai
+2024-07-22,concert tickets,420,credit,subscription,Apple Music,Pune
+2024-10-23,amazon purchase,1290,credit,shopping,Zepto,Delhi
+2024-02-02,petrol pump fuel,1950,credit,fuel,Blinkit,Chennai
+2024-02-28,uber ride,580,debit,transport,Vi,Chennai
+2024-01-15,diesel refill,1190,debit,bills,Airtel,Pune
+2024-11-27,supermarket shopping,320,debit,subscription,Apollo Pharmacy,Delhi
+2024-12-27,mobile recharge,290,credit,transport,Ola,Chennai
+2024-10-13,uber ride,890,credit,subscription,Spotify,Hyderabad
+2024-03-08,petrol pump fuel,320,credit,fuel,Steam,Bangalore
+2024-10-20,supermarket shopping,420,debit,food,Swiggy,Mumbai
+2024-06-22,bus ticket,700,debit,transport,Airtel,Chennai
+2024-11-01,petrol pump fuel,340,debit,fuel,Vi,Hyderabad
+2024-12-11,amazon purchase,160,debit,subscription,D-Mart,Chennai
+2024-09-10,petrol pump fuel,1330,debit,fuel,Amazon,Delhi
+2024-07-08,spotify premium,530,credit,subscription,TSSPDCL,Mumbai
+2024-01-08,electricity bill payment,610,credit,bills,ACT Fibernet,Bangalore
+2024-04-24,flipkart shopping order,560,debit,shopping,ACT Fibernet,Pune
+2024-10-17,uber ride,1790,debit,transport,1mg,Bangalore
+2024-07-07,restaurant dinner,1090,credit,food,MSEDCL,Chennai
+2024-12-30,amazon purchase,1200,credit,shopping,Zomato,Bangalore
+2024-05-27,internet bill payment,1050,debit,grocery,Netmeds,Bangalore
+2024-12-11,amazon purchase,970,credit,subscription,1mg,Delhi
+2024-02-05,supermarket shopping,260,debit,fuel,BPCL,Hyderabad
+2024-07-23,amazon purchase,540,credit,subscription,Spotify,Chennai
+2024-11-22,spotify premium,280,debit,subscription,Steam,Bangalore
+2024-07-11,supermarket shopping,2940,debit,bills,Jio,Mumbai
+2024-12-14,spotify premium,1720,credit,subscription,Vi,Bangalore
+2024-10-13,spotify premium,1220,credit,subscription,Xbox,Bangalore
+2024-04-22,flipkart shopping order,290,credit,entertainment,ACT Fibernet,Hyderabad
+2024-08-24,supermarket shopping,470,debit,entertainment,Amazon,Bangalore
+2024-06-15,mobile recharge,970,debit,subscription,Steam,Chennai
+2024-01-30,ola cab ride,270,debit,food,ACT Fibernet,Pune
+2024-12-23,bus ticket,420,credit,transport,Netmeds,Delhi
+2024-11-30,swiggy food order,470,credit,food,Apollo Pharmacy,Bangalore
+2024-07-31,netflix subscription,3260,credit,subscription,D-Mart,Hyderabad
+2024-07-29,flipkart shopping order,430,credit,subscription,Reliance Smart,Delhi
+2024-12-03,grocery store purchase,580,credit,fuel,Ola,Delhi
+2024-01-14,grocery store purchase,960,debit,shopping,Swiggy,Chennai
+2024-12-20,flipkart shopping order,1110,credit,shopping,State Transport,Delhi
+2024-10-06,uber ride,1900,credit,transport,Apollo Pharmacy,Pune
+2024-07-16,pharmacy medicine purchase,720,credit,shopping,JioFiber,Hyderabad
+2024-06-03,diesel refill,1270,debit,bills,Ola,Bangalore
+2024-02-12,movie ticket booking,1390,credit,bills,Apple Music,Bangalore
+2024-09-28,gaming purchase,2780,debit,fuel,Vi,Chennai
+2024-04-16,bus ticket,360,debit,bills,HPCL,Pune
+2024-08-15,gaming purchase,2020,debit,transport,IRCTC,Hyderabad
+2024-12-09,diesel refill,350,credit,transport,Uber,Delhi
+2024-02-24,spotify premium,2300,credit,subscription,RedBus,Delhi
+2024-10-25,movie ticket booking,770,credit,subscription,RedBus,Delhi
+2024-04-21,diesel refill,210,credit,entertainment,Blinkit,Delhi
+2024-06-10,ola cab ride,470,credit,bills,Dineout,Hyderabad
+2024-04-30,train booking,1610,debit,entertainment,Spotify,Pune
+2024-02-22,supermarket shopping,1260,debit,entertainment,PlayStation,Delhi
+2024-10-22,netflix subscription,1600,credit,bills,BPCL,Mumbai
+2024-03-14,gaming purchase,2370,credit,transport,RedBus,Mumbai
+2024-08-14,restaurant dinner,4040,credit,shopping,IndianOil,Delhi
+2024-01-08,amazon purchase,900,credit,grocery,Insider,Hyderabad
+2024-03-14,spotify premium,1790,debit,subscription,HPCL,Hyderabad
+2024-02-28,train booking,1140,credit,grocery,Dineout,Chennai
+2024-06-27,grocery store purchase,490,credit,shopping,Dineout,Pune
+2024-12-17,supermarket shopping,980,debit,fuel,BPCL,Hyderabad
+2024-08-12,pharmacy medicine purchase,780,debit,food,Reliance Smart,Chennai
+2024-02-27,pharmacy medicine purchase,1770,credit,transport,MakeMyTrip,Mumbai
+2024-08-10,zomato food delivery,1120,credit,food,Flipkart,Hyderabad
+2024-12-31,petrol pump fuel,1300,debit,fuel,Ola,Bangalore
+2024-02-04,diesel refill,660,debit,transport,Uber,Delhi
+2024-12-16,movie ticket booking,740,credit,subscription,Swiggy,Mumbai
+2024-12-11,movie ticket booking,940,debit,fuel,Spotify,Chennai
+2024-03-14,supermarket shopping,670,credit,grocery,1mg,Pune
+2024-05-22,movie ticket booking,380,debit,grocery,BigBasket,Delhi
+2024-03-14,electricity bill payment,450,credit,bills,Blinkit,Bangalore
+2024-05-18,diesel refill,1530,credit,entertainment,Steam,Chennai
+2024-10-30,flipkart shopping order,350,debit,entertainment,Dineout,Bangalore
+2024-11-26,supermarket shopping,700,credit,bills,Jio,Delhi
+2024-10-08,diesel refill,320,debit,bills,PlayStation,Chennai
+2024-05-02,restaurant dinner,230,credit,food,PVR,Delhi
+2024-03-21,restaurant dinner,2990,credit,shopping,Airtel,Delhi
+2024-04-19,pharmacy medicine purchase,2120,credit,bills,BESCOM,Pune
+2024-10-23,restaurant dinner,430,credit,food,Netflix,Pune
+2024-06-22,spotify premium,230,debit,grocery,Xbox,Hyderabad
+2024-03-07,movie ticket booking,1040,credit,grocery,Zepto,Hyderabad
+2024-01-20,mobile recharge,4580,debit,shopping,PVR,Chennai
+2024-12-17,mobile recharge,400,credit,subscription,Spotify,Hyderabad
+2024-10-26,electricity bill payment,990,debit,bills,Vi,Hyderabad
+2024-11-12,mobile recharge,470,debit,fuel,Shell,Chennai
+2024-09-02,train booking,320,credit,subscription,Prime Video,Chennai
+2024-09-11,ola cab ride,1760,debit,transport,MSEDCL,Bangalore
+2024-12-12,amazon purchase,440,credit,shopping,BPCL,Chennai
+2024-10-31,bus ticket,720,credit,transport,Flipkart,Chennai
+2024-09-09,ola cab ride,290,debit,transport,PlayStation,Delhi
+2024-12-05,swiggy food order,620,credit,food,ACT Fibernet,Bangalore
+2024-09-16,uber ride,3080,debit,transport,IndianOil,Delhi
+2024-05-08,ola cab ride,860,debit,transport,Dineout,Pune
+2024-05-11,swiggy food order,1520,debit,entertainment,Netflix,Bangalore
+2024-12-13,spotify premium,2780,credit,subscription,Insider,Delhi
+2024-02-21,spotify premium,4810,debit,subscription,JioFiber,Hyderabad
+2024-08-30,restaurant dinner,860,credit,food,TSSPDCL,Chennai
+2024-06-02,mobile recharge,2900,credit,bills,TSSPDCL,Pune
+2024-04-26,bus ticket,1510,credit,transport,Dineout,Mumbai
+2024-10-04,flipkart shopping order,1980,debit,shopping,MSEDCL,Hyderabad
+2024-02-17,pharmacy medicine purchase,420,credit,shopping,Insider,Chennai
+2024-10-08,movie ticket booking,2340,credit,food,Swiggy,Delhi
+2024-10-29,spotify premium,2780,debit,subscription,Uber,Pune
+2024-06-23,gaming purchase,530,credit,grocery,State Transport,Mumbai
+2024-04-02,supermarket shopping,250,credit,transport,MakeMyTrip,Pune
+2024-03-10,restaurant dinner,1690,debit,food,MSEDCL,Pune
+2024-05-31,zomato food delivery,1810,debit,food,TSSPDCL,Mumbai
+2024-07-06,flipkart shopping order,1580,credit,shopping,PlayStation,Delhi
+2024-02-24,gaming purchase,1030,debit,shopping,Amazon,Hyderabad
+2024-02-11,restaurant dinner,250,debit,food,Steam,Chennai
+2024-10-19,concert tickets,480,credit,food,Swiggy,Hyderabad
+2024-08-26,supermarket shopping,1610,credit,fuel,Shell,Chennai
+2024-01-31,pharmacy medicine purchase,590,debit,bills,Blinkit,Delhi
+2024-03-07,electricity bill payment,2020,debit,bills,Insider,Hyderabad
+2024-11-16,netflix subscription,2480,debit,fuel,Apple Music,Delhi
+2024-09-22,netflix subscription,800,debit,subscription,IndianOil,Delhi
+2024-04-24,movie ticket booking,2030,debit,shopping,Flipkart,Delhi
+2024-05-08,uber ride,1430,debit,transport,1mg,Bangalore
+2024-09-25,diesel refill,1800,credit,transport,IRCTC,Pune
+2024-07-11,pharmacy medicine purchase,3290,debit,shopping,BookMyShow,Pune
+2024-03-20,ola cab ride,400,credit,transport,Netflix,Mumbai
+2024-12-04,prime video subscription,380,credit,subscription,Zomato,Delhi
+2024-03-22,amazon purchase,410,credit,shopping,Netflix,Pune
+2024-03-12,uber ride,1250,credit,transport,Zomato,Delhi
+2024-12-30,diesel refill,870,debit,grocery,Blinkit,Pune
+2024-06-14,netflix subscription,300,debit,subscription,HPCL,Chennai
+2024-07-22,gaming purchase,60,credit,subscription,Spotify,Mumbai
+2024-06-19,amazon purchase,2170,credit,shopping,TSSPDCL,Pune
+2024-06-20,grocery store purchase,80,credit,shopping,JioFiber,Chennai
+2024-09-11,ola cab ride,1150,credit,grocery,IRCTC,Bangalore
+2024-10-19,gaming purchase,340,credit,subscription,Spotify,Mumbai
+2024-07-31,internet bill payment,2600,credit,fuel,Jio,Hyderabad
+2024-10-08,movie ticket booking,1860,debit,grocery,BigBasket,Chennai
+2024-04-11,gaming purchase,710,credit,subscription,Netflix,Chennai
+2024-10-14,uber ride,410,debit,transport,D-Mart,Pune
+2024-07-28,mobile recharge,100,credit,grocery,Reliance Smart,Pune
+2024-01-19,swiggy food order,1310,credit,food,Blinkit,Hyderabad
+2024-10-23,flipkart shopping order,350,debit,subscription,BPCL,Hyderabad
+2024-10-30,ola cab ride,2600,debit,fuel,IRCTC,Chennai
+2024-10-07,flipkart shopping order,240,credit,shopping,Steam,Mumbai
+2024-10-01,internet bill payment,710,debit,bills,MSEDCL,Pune
+2024-02-22,bus ticket,2770,debit,transport,Spotify,Delhi
+2024-02-05,swiggy food order,1940,debit,food,Blinkit,Pune
+2024-11-21,supermarket shopping,470,credit,bills,Airtel,Delhi
+2024-03-13,zomato food delivery,1510,debit,food,BookMyShow,Bangalore
+2024-11-27,prime video subscription,2570,credit,subscription,Insider,Bangalore
+2024-03-19,petrol pump fuel,1640,credit,entertainment,Netflix,Mumbai
+2024-08-21,swiggy food order,1840,credit,food,Apollo Pharmacy,Mumbai
+2024-10-22,internet bill payment,4870,credit,bills,Jio,Mumbai
+2024-08-14,movie ticket booking,900,credit,shopping,Flipkart,Pune
+2024-05-27,mobile recharge,200,credit,shopping,Amazon,Delhi
+2024-04-16,electricity bill payment,1010,debit,bills,Uber,Delhi
+2024-12-10,flipkart shopping order,470,credit,shopping,Netflix,Hyderabad
+2024-12-19,uber ride,870,debit,transport,Apollo Pharmacy,Mumbai
+2024-09-07,electricity bill payment,450,credit,bills,Insider,Delhi
+2024-06-02,internet bill payment,1670,credit,bills,Zomato,Pune
+2024-11-06,movie ticket booking,590,credit,food,BESCOM,Mumbai
+2024-06-19,bus ticket,850,credit,subscription,Reliance Smart,Pune
+2024-06-28,pharmacy medicine purchase,1690,debit,bills,ACT Fibernet,Mumbai
+2024-01-18,spotify premium,290,debit,subscription,Uber,Pune
+2024-05-02,internet bill payment,110,debit,bills,Flipkart,Hyderabad
+2024-05-04,pharmacy medicine purchase,750,credit,transport,RedBus,Pune
+2024-04-17,restaurant dinner,1960,debit,fuel,Disney+,Pune
+2024-04-23,train booking,2800,debit,subscription,Disney+,Bangalore
+2024-02-20,netflix subscription,1080,debit,subscription,Insider,Chennai
+2024-08-27,bus ticket,3220,debit,transport,BPCL,Hyderabad
+2024-12-22,mobile recharge,2140,credit,fuel,HPCL,Hyderabad
+2024-01-10,petrol pump fuel,3770,credit,shopping,Disney+,Bangalore
+2024-03-06,internet bill payment,1860,debit,bills,1mg,Pune
+2024-12-16,movie ticket booking,1940,debit,entertainment,ACT Fibernet,Hyderabad
+2024-11-28,uber ride,2680,credit,transport,Netflix,Delhi
+2024-07-28,netflix subscription,2080,credit,fuel,Ola,Pune
+2024-09-02,zomato food delivery,1720,debit,food,Jio,Pune
+2024-03-22,uber ride,1750,credit,shopping,1mg,Hyderabad
+2024-04-08,grocery store purchase,1510,debit,fuel,Insider,Hyderabad
+2024-03-03,amazon purchase,1470,credit,shopping,MakeMyTrip,Chennai
+2024-07-14,diesel refill,670,debit,fuel,Insider,Chennai
+2024-07-06,ola cab ride,600,credit,transport,PlayStation,Mumbai
+2024-12-17,prime video subscription,690,debit,food,Shell,Mumbai
+2024-06-21,train booking,540,debit,entertainment,PlayStation,Bangalore
+2024-12-15,petrol pump fuel,310,debit,transport,Vi,Mumbai
+2024-12-04,bus ticket,260,credit,transport,Zomato,Hyderabad
+2024-09-22,bus ticket,580,credit,transport,Reliance Smart,Delhi
+2024-10-02,netflix subscription,1850,credit,subscription,Xbox,Hyderabad
+2024-08-18,amazon purchase,930,credit,shopping,PVR,Bangalore
+2024-08-18,train booking,370,debit,grocery,Blinkit,Chennai
+2024-09-03,zomato food delivery,1090,debit,grocery,Vi,Chennai
+2024-03-18,amazon purchase,280,debit,shopping,Airtel,Chennai
+2024-09-16,grocery store purchase,1890,credit,shopping,Vi,Bangalore
+2024-10-08,pharmacy medicine purchase,500,debit,shopping,Flipkart,Bangalore
+2024-12-15,petrol pump fuel,1630,debit,fuel,MakeMyTrip,Hyderabad
+2024-01-30,train booking,940,debit,subscription,Apple Music,Mumbai
+2024-11-17,zomato food delivery,890,debit,food,PlayStation,Delhi
+2024-06-03,movie ticket booking,300,debit,grocery,Netmeds,Mumbai
+2024-02-13,flipkart shopping order,830,debit,shopping,1mg,Bangalore
+2024-09-25,movie ticket booking,490,debit,shopping,Amazon,Delhi
+2024-03-16,pharmacy medicine purchase,380,debit,shopping,PVR,Delhi
+2024-03-10,petrol pump fuel,640,credit,fuel,Swiggy,Chennai
+2024-12-22,uber ride,1290,credit,transport,BPCL,Chennai
+2024-04-03,supermarket shopping,3650,credit,bills,Jio,Chennai
